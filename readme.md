@@ -11,6 +11,14 @@ https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W15/55/20
 
 Summary: Photogrammetry Software comparison and quality evaluation for cultural heritage projects
 
+**Enhancing heritage fruition through 3D virtual models and augmented reality: an application to roman artefacts**
+
+Francesco Gherardini
+
+https://www.researchgate.net/publication/334682161_Enhancing_heritage_fruition_through_3D_virtual_models_and_augmented_reality_an_application_to_roman_artefacts
+
+Summary: Cultural heritage project
+
 **Photogrammetry for 3D Reconstruction in SOLIDWORKS and its Applications in Industry**
 
 Photogrammetry Thesis,  Purdue University 2019
@@ -81,13 +89,17 @@ Meshroom and Maya
 
 [Photogrammetry - Using a turntable for 3D scanning](https://www.youtube.com/watch?v=nWh51Ipp5Sc)
 
+**Реконструкция 3D-объекта по фото в программе Meshroom О программе**
 
+http://mapper720.ru/tutorials/meshroom.html
 
 
 # Other
 
 6 Best Photogrammetry Software Programs in 2019
 https://3dinsider.com/photogrammetry-software/
+
+https://blenderartists.org/t/meshroom-free-photogrammetry/
 
 
 
