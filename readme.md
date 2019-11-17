@@ -93,13 +93,26 @@ Meshroom and Maya
 
 http://mapper720.ru/tutorials/meshroom.html
 
+**PHOTOGRAMMÉTRIE AVEC MESHROOM : DEVIENS UN PRO**
+
+https://www.youtube.com/watch?v=nMUM3NQmFgA
+
+**3D Photo Scanning Tutorial | Blender 2.8 | Meshroom | Instant Meshes**
+
+https://www.youtube.com/watch?v=kGBhM3-W7ic
+
+
+
 
 # Other
 
-6 Best Photogrammetry Software Programs in 2019
+**6 Best Photogrammetry Software Programs in 2019**
 https://3dinsider.com/photogrammetry-software/
 
 https://blenderartists.org/t/meshroom-free-photogrammetry/
+
+**Experiments with Meshroom / AliceVision: Galway Cathedral**
+https://www.youtube.com/watch?v=u6HjcqaBZG8
 
 
 
