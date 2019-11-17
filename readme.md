@@ -1,5 +1,5 @@
 
-# Text publications
+# Text publications (book, paper, academic,...)
 
 **2D & 3D RECONSTRUCTION WORKFLOWS FROM ARCHIVE IMAGES, CASE STUDY OF DAMAGED MONUMENTS IN BOSRA AL-SHAM CITY (SYRIA)**
 
