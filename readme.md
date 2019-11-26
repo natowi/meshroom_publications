@@ -1,6 +1,10 @@
 
 # Text publications (book, paper, academic,...)
 
+**Meshroom – Open-Source-Photogrammetrie auf einen Klick**
+
+http://download.digitalproduction.com/Kostenlose%20PDFs%202019/DP1806_AliceVision_Meshroom.pdf
+
 **2D & 3D RECONSTRUCTION WORKFLOWS FROM ARCHIVE IMAGES, CASE STUDY OF DAMAGED MONUMENTS IN BOSRA AL-SHAM CITY (SYRIA)**
 
 The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XLII-2/W15, 2019 27th CIPA International Symposium “Documenting the past for a better future”, 1–5 September 2019, Ávila, Spain
@@ -114,6 +118,29 @@ https://blenderartists.org/t/meshroom-free-photogrammetry/
 **Experiments with Meshroom / AliceVision: Galway Cathedral**
 https://www.youtube.com/watch?v=u6HjcqaBZG8
 
+**list**
 
+https://www.clir.org/wp-content/uploads/sites/6/2019/02/Pub-176.pdf
 
+**Implementing Augmented Reality at the Imperial War Museum**
 
+https://daniel.regentsit.co.uk/novel2.pdf
+use case
+
+**ENHANCING HERITAGE FRUITION THROUGH 3D VIRTUAL MODELS AND AUGMENTED REALITY: AN APPLICATION TOROMAN ARTEFACTS**
+
+https://riunet.upv.es/bitstream/handle/10251/124734/11918-48089-5-PB.pdf?sequence=4&isAllowed=y
+
+**SYNTHÈSE DES OUTILS ET DES TECHNOLOGIES 3D**
+
+https://hal.archives-ouvertes.fr/hal-02159453/document
+
+**Application of ‘Structure from Motion’ (SfM) technique in physical hydraulic modelling**
+
+https://iopscience.iop.org/article/10.1088/1742-6596/1266/1/012008/pdf
+
+**Digital Humanitiesim Museum 4.0**
+
+https://informatik.hs-bremerhaven.de/dh2018/pdf/Poster_2_Erstellung.pdf
+
+https://informatik.hs-bremerhaven.de/dh2018/pdf/Pr%C3%A4sentation.pdf
