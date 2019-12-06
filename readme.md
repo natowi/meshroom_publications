@@ -60,7 +60,13 @@ Summary: Meshroom in C4D pipeline
 
 **Photogrammetry tests with Meshroom 2019**
 
-https://www.youtube.com/watch?v=JHWf1KjI3J0
+* [【フォトグラメトリ】3DF ZephrとRealityCapture、MESHROOMを使ってみる]
+(https://www.youtube.com/watch?v=vDjQVBm7HYI)
+
+Summary: Interesting reconstruction comparison with difficult car reconstruction (high reflection)
+
+
+* https://www.youtube.com/watch?v=JHWf1KjI3J0
 
 Summary: Meshroom Showcase
 
