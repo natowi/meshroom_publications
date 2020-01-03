@@ -32,6 +32,12 @@ Potabatti, Nikhil S.
 https://scholarworks.iupui.edu/handle/1805/19992
 
 Summary: Includes Alicevision Plugin for Solidworks
+
+**Morphological Mapping of 13 August 2017 Kotropi Landslide using Images and Videos from Drone and Structure from Motion** (poster)
+
+Indian Institute of Technology Mandi 
+
+https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/529652
  
 
 # Web publications (blogs, videos)
