@@ -38,7 +38,14 @@ Summary: Includes Alicevision Plugin for Solidworks
 Indian Institute of Technology Mandi 
 
 https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/529652
- 
+
+# Les recommandations du Consortium 3D SHS
+
+https://hal.archives-ouvertes.fr/hal-01683842/file/Les%20recommandations%20du%20consortium%203D%20SHS.pdf
+
+# An Interactive Physically-based Model for ActiveSuction Phenomenon Simulation
+
+https://hal.inria.fr/hal-02419381/document
 
 # Web publications (blogs, videos)
 
