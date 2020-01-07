@@ -47,6 +47,11 @@ https://hal.archives-ouvertes.fr/hal-01683842/file/Les%20recommandations%20du%20
 
 https://hal.inria.fr/hal-02419381/document
 
+# Perspective-consistent multifocus multiview 3D reconstruction of small objects
+
+https://arxiv.org/pdf/1912.03005.pdf
+
+
 # Web publications (blogs, videos)
 
 **Getting started with Photogrammetry — with an Smartphone camera [2019]**
