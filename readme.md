@@ -39,31 +39,31 @@ Indian Institute of Technology Mandi
 
 https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/529652
 
-# Les recommandations du Consortium 3D SHS
+**Les recommandations du Consortium 3D SHS
 
 https://hal.archives-ouvertes.fr/hal-01683842/file/Les%20recommandations%20du%20consortium%203D%20SHS.pdf
 
-# An Interactive Physically-based Model for ActiveSuction Phenomenon Simulation
+**An Interactive Physically-based Model for ActiveSuction Phenomenon Simulation
 
 https://hal.inria.fr/hal-02419381/document
 
-# Perspective-consistent multifocus multiview 3D reconstruction of small objects
+**Perspective-consistent multifocus multiview 3D reconstruction of small objects
 
 https://arxiv.org/pdf/1912.03005.pdf
 
-# LOW-COST TECHNOLOGICAL IMPLEMENTATIONS RELATED TO INTEGRATED APPLICATION EXPERIMENTS
+**LOW-COST TECHNOLOGICAL IMPLEMENTATIONS RELATED TO INTEGRATED APPLICATION EXPERIMENTS
 
 https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/241/2019/isprs-archives-XLII-2-W17-241-2019.pdf
 
 https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/331/2019/isprs-archives-XLII-2-W17-331-2019.
 
-# Digital Humanities im Museum 4.0
+**Digital Humanities im Museum 4.0
 
 https://informatik.hs-bremerhaven.de/dh2018/pdf/Pr%C3%A4sentation.pdf
 
 https://informatik.hs-bremerhaven.de/dh2018/pdf/Poster_2_Erstellung.pdf
 
-# POPART/LADIO SIFT in CUDA
+**POPART/LADIO SIFT in CUDA
 
 popsift implementation
 
