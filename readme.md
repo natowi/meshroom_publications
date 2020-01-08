@@ -51,6 +51,24 @@ https://hal.inria.fr/hal-02419381/document
 
 https://arxiv.org/pdf/1912.03005.pdf
 
+# LOW-COST TECHNOLOGICAL IMPLEMENTATIONS RELATED TO INTEGRATED APPLICATION EXPERIMENTS
+
+https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/241/2019/isprs-archives-XLII-2-W17-241-2019.pdf
+
+https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/331/2019/isprs-archives-XLII-2-W17-331-2019.
+
+# Digital Humanities im Museum 4.0
+
+https://informatik.hs-bremerhaven.de/dh2018/pdf/Pr%C3%A4sentation.pdf
+
+https://informatik.hs-bremerhaven.de/dh2018/pdf/Poster_2_Erstellung.pdf
+
+# POPART/LADIO SIFT in CUDA
+
+popsift implementation
+
+https://www.uio.no/studier/emner/matnat/ifi/IN5050/v19/undervisningsmateriale/in5050-popsift.pdf
+
 
 # Web publications (blogs, videos)
 
