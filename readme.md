@@ -152,6 +152,11 @@ https://www.youtube.com/watch?v=nMUM3NQmFgA
 https://www.youtube.com/watch?v=kGBhM3-W7ic
 
 
+**Creating a 3D digital double in Blender & Meshroom | Blender Part 1**
+
+https://www.youtube.com/watch?v=bX_1q0N-EHE
+
+
 
 
 # Other
