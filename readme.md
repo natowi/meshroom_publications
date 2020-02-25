@@ -69,6 +69,10 @@ popsift implementation
 
 https://www.uio.no/studier/emner/matnat/ifi/IN5050/v19/undervisningsmateriale/in5050-popsift.pdf
 
+**Utilizzo di asset 3D per la produzione videonel campo del cultural heritageDal reperto alla divulgazione scientifica**
+
+https://webthesis.biblio.polito.it/13119/1/tesi.pdf
+
 
 # Web publications (blogs, videos)
 
