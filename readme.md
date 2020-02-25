@@ -74,6 +74,11 @@ https://www.uio.no/studier/emner/matnat/ifi/IN5050/v19/undervisningsmateriale/in
 https://webthesis.biblio.polito.it/13119/1/tesi.pdf
 
 
+**Full Pipeline Evaluation including the “Tanks and Temples” evaluation benchmark read D5.4: Deliver 3D reconstruction benchmarks with dataset**
+
+https://cordis.europa.eu/project/rcn/205980/results/en 
+
+
 # Web publications (blogs, videos)
 
 **Getting started with Photogrammetry — with an Smartphone camera [2019]**
