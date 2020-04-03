@@ -161,6 +161,9 @@ https://www.youtube.com/watch?v=kGBhM3-W7ic
 
 https://www.youtube.com/watch?v=bX_1q0N-EHE
 
+** Behind the Scenes: 3D Castle Set Extension **
+https://www.blendernation.com/2019/11/20/behind-the-scenes-3d-castle-set-extension/
+
 
 
 
