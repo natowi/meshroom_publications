@@ -33,6 +33,10 @@ https://scholarworks.iupui.edu/handle/1805/19992
 
 Summary: Includes Alicevision Plugin for Solidworks
 
+**Microstructures and Deformation Mechanisms of Ballistic Impacts in Stone** (PhD thesis)
+Oliver Campbell, School of Earth and Ocean Sciences, Cardiff University
+context https://www.heritageinthecrossfire.com/
+
 **Morphological Mapping of 13 August 2017 Kotropi Landslide using Images and Videos from Drone and Structure from Motion** (poster)
 
 Indian Institute of Technology Mandi 
