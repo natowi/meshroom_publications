@@ -207,3 +207,9 @@ https://iopscience.iop.org/article/10.1088/1742-6596/1266/1/012008/pdf
 https://informatik.hs-bremerhaven.de/dh2018/pdf/Poster_2_Erstellung.pdf
 
 https://informatik.hs-bremerhaven.de/dh2018/pdf/Pr%C3%A4sentation.pdf
+
+# Network
+
+Listed as Non-ASWF Member Products/Projects in Assets and Workflow: Scenes and Geometry
+https://landscape.aswf.io/selected=meshroom
+
