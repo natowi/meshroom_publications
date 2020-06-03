@@ -1,6 +1,14 @@
 
 # Text publications (book, paper, academic,...)
 
+**User-guided 3D reconstruction using multi-view stereo**
+
+https://dl.acm.org/doi/abs/10.1145/3384382.3384530
+
+**mikros-cg-wire-et-creative-seeds-evoquent-leur-vision-de-lopen-source**
+
+https://www.3dvf.com/mikros-cg-wire-et-creative-seeds-evoquent-leur-vision-de-lopen-source/
+
 **Meshroom – Open-Source-Photogrammetrie auf einen Klick**
 
 http://download.digitalproduction.com/Kostenlose%20PDFs%202019/DP1806_AliceVision_Meshroom.pdf
