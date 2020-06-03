@@ -9,6 +9,28 @@ https://dl.acm.org/doi/abs/10.1145/3384382.3384530
 
 https://www.3dvf.com/mikros-cg-wire-et-creative-seeds-evoquent-leur-vision-de-lopen-source/
 
+**A QoE Evaluation of an Immersive Virtual Reality Autonomous Driving Experience**
+
+https://qomex2020.ie/proceedings/1570640229.pdf
+
+**Fotogrammetria mallintajan työkaluna**
+
+https://www.theseus.fi/bitstream/handle/10024/336897/Paloja%CC%88rvi_Hilla.pdf?sequence=2
+
+
+**Simultaneous Tracking and Elasticity ParameterEstimation of Deformable Objects**
+
+https://hal.inria.fr/hal-02495831/document
+
+**Geohazards Affecting Cultural HeritageMonuments. A Complex Case Study From Romania**
+
+https://assets.researchsquare.com/files/rs-31190/v1/5fdb99c4-89dd-4ac2-888b-eb72d339782c.pdf
+
+**Raising Awareness for Endangered Species using Augmented Reality**
+
+https://www.researchgate.net/profile/Daniel_Kolb4/publication/341151490_Raising_Awareness_for_Endangered_Species_using_Augmented_Reality/links/5eb1331d45851592d6b97e9f/Raising-Awareness-for-Endangered-Species-using-Augmented-Reality.pdf
+
+
 **Meshroom – Open-Source-Photogrammetrie auf einen Klick**
 
 http://download.digitalproduction.com/Kostenlose%20PDFs%202019/DP1806_AliceVision_Meshroom.pdf
