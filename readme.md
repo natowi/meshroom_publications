@@ -17,6 +17,15 @@ https://qomex2020.ie/proceedings/1570640229.pdf
 
 https://www.theseus.fi/bitstream/handle/10024/336897/Paloja%CC%88rvi_Hilla.pdf?sequence=2
 
+**Accessible Digitisation and Visualisationof Open Cultural Heritage Assets**
+
+(with quality comparisson)
+
+https://cris.brighton.ac.uk/ws/portalfiles/portal/7238946/Digital_Modernismo.pdf
+
+**Digitale Chancen in der Messtechnik: LowCost-Ansätze fürkomplexe Messaufgaben am Beispiel des Modelldeichs derTU Dresden**
+
+https://henry.baw.de/bitstream/20.500.11970/107067/1/27_Fleischer.pdf
 
 **Simultaneous Tracking and Elasticity ParameterEstimation of Deformable Objects**
 
