@@ -27,7 +27,7 @@ Reconstruction accuracy comparison between Meshroom and Agisoft Metashape and VS
 
 https://cris.brighton.ac.uk/ws/portalfiles/portal/7238946/Digital_Modernismo.pdf
 
-[GER]**Digitale Chancen in der Messtechnik: LowCost-Ansätze für komplexe Messaufgaben am Beispiel des Modelldeichs der TU Dresden**
+[GER] **Digitale Chancen in der Messtechnik: LowCost-Ansätze für komplexe Messaufgaben am Beispiel des Modelldeichs der TU Dresden**
 
 Hydraulic Engineering
 
@@ -55,7 +55,7 @@ Education
 
 https://www.researchgate.net/profile/Daniel_Kolb4/publication/341151490_Raising_Awareness_for_Endangered_Species_using_Augmented_Reality/links/5eb1331d45851592d6b97e9f/Raising-Awareness-for-Endangered-Species-using-Augmented-Reality.pdf
 
-[GER]**Meshroom – Open-Source-Photogrammetrie auf einen Klick**
+[GER] **Meshroom – Open-Source-Photogrammetrie auf einen Klick**
 
 Digital Production paper publication for digital artists with interview and tutorial
 
@@ -143,7 +143,7 @@ popsift implementation
 
 https://www.uio.no/studier/emner/matnat/ifi/IN5050/v19/undervisningsmateriale/in5050-popsift.pdf
 
-[IT]**Utilizzo di asset 3D per la produzione videonel campo del cultural heritageDal reperto alla divulgazione scientifica**
+[IT] **Utilizzo di asset 3D per la produzione videonel campo del cultural heritageDal reperto alla divulgazione scientifica**
 
 https://webthesis.biblio.polito.it/13119/1/tesi.pdf
 
