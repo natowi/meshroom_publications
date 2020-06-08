@@ -3,46 +3,61 @@
 
 **User-guided 3D reconstruction using multi-view stereo**
 
-"The results from the reconstructions will primarily be compared tothe output of the automatic reconstruction software Meshroom"
+"The results from the reconstructions will primarily be compared to the output of the automatic reconstruction software Meshroom"
 
 https://dl.acm.org/doi/abs/10.1145/3384382.3384530
 
-**mikros-cg-wire-et-creative-seeds-evoquent-leur-vision-de-lopen-source**
+[FR] **mikros-cg-wire-et-creative-seeds-evoquent-leur-vision-de-lopen-source**
+
+Short official Meshroom conference presentation video
 
 https://www.3dvf.com/mikros-cg-wire-et-creative-seeds-evoquent-leur-vision-de-lopen-source/
 
-**A QoE Evaluation of an Immersive Virtual Reality Autonomous Driving Experience**
+[FIN]**Fotogrammetria mallintajan työkaluna**
 
-https://qomex2020.ie/proceedings/1570640229.pdf
-
-**Fotogrammetria mallintajan työkaluna**
+Photography as a tool for 3D modeling (thesis). Meshroom reconstruction example. 
 
 https://www.theseus.fi/bitstream/handle/10024/336897/Paloja%CC%88rvi_Hilla.pdf?sequence=2
 
 **Accessible Digitisation and Visualisationof Open Cultural Heritage Assets**
 
-(with quality comparisson)
+Cultural Heritage
+
+Reconstruction accuracy comparison between Meshroom and Agisoft Metashape and VSfM/Regard3D
 
 https://cris.brighton.ac.uk/ws/portalfiles/portal/7238946/Digital_Modernismo.pdf
 
-**Digitale Chancen in der Messtechnik: LowCost-Ansätze fürkomplexe Messaufgaben am Beispiel des Modelldeichs derTU Dresden**
+[GER]**Digitale Chancen in der Messtechnik: LowCost-Ansätze für komplexe Messaufgaben am Beispiel des Modelldeichs der TU Dresden**
+
+Hydraulic Engineering
+
+Meshroom used for 3D reconstruction (short mentioning)
 
 https://henry.baw.de/bitstream/20.500.11970/107067/1/27_Fleischer.pdf
 
 **Simultaneous Tracking and Elasticity ParameterEstimation of Deformable Objects**
 
+Meshroom was used to generate a 3d mesh used for other studies (short mention)
+
 https://hal.inria.fr/hal-02495831/document
 
 **Geohazards Affecting Cultural HeritageMonuments. A Complex Case Study From Romania**
+
+Cultural Heritage (short mentioning)
 
 https://assets.researchsquare.com/files/rs-31190/v1/5fdb99c4-89dd-4ac2-888b-eb72d339782c.pdf
 
 **Raising Awareness for Endangered Species using Augmented Reality**
 
+Education
+
+3D reconstruction of animals, short use case
+
 https://www.researchgate.net/profile/Daniel_Kolb4/publication/341151490_Raising_Awareness_for_Endangered_Species_using_Augmented_Reality/links/5eb1331d45851592d6b97e9f/Raising-Awareness-for-Endangered-Species-using-Augmented-Reality.pdf
 
+[GER]**Meshroom – Open-Source-Photogrammetrie auf einen Klick**
 
-**Meshroom – Open-Source-Photogrammetrie auf einen Klick**
+Digital Production paper publication for digital artists with interview and tutorial
 
 http://download.digitalproduction.com/Kostenlose%20PDFs%202019/DP1806_AliceVision_Meshroom.pdf
 
@@ -74,9 +89,11 @@ https://scholarworks.iupui.edu/handle/1805/19992
 
 Summary: Includes Alicevision Plugin for Solidworks
 
-**Microstructures and Deformation Mechanisms of Ballistic Impacts in Stone** (PhD thesis)
+**Microstructures and Deformation Mechanisms of Ballistic Impacts in Stone** (PhD thesis 2020)
 Oliver Campbell, School of Earth and Ocean Sciences, Cardiff University
 context https://www.heritageinthecrossfire.com/
+
+Cultural Heritage
 
 **Morphological Mapping of 13 August 2017 Kotropi Landslide using Images and Videos from Drone and Structure from Motion** (poster)
 
@@ -84,15 +101,27 @@ Indian Institute of Technology Mandi
 
 https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/529652
 
-**Les recommandations du Consortium 3D SHS
+Drone Mapping, Earth Science, Landslide
+
+Short Mentioning, usage example
+
+[FR]**Les recommandations du Consortium 3D SHS
+
+Software comparison list
 
 https://hal.archives-ouvertes.fr/hal-01683842/file/Les%20recommandations%20du%20consortium%203D%20SHS.pdf
 
 **An Interactive Physically-based Model for ActiveSuction Phenomenon Simulation
 
+Robotics/Physics research
+
+Meshroom used for 3d reconstruction of object used for physical modelling
+
 https://hal.inria.fr/hal-02419381/document
 
 **Perspective-consistent multifocus multiview 3D reconstruction of small objects
+
+short mention, usage example
 
 https://arxiv.org/pdf/1912.03005.pdf
 
@@ -114,7 +143,7 @@ popsift implementation
 
 https://www.uio.no/studier/emner/matnat/ifi/IN5050/v19/undervisningsmateriale/in5050-popsift.pdf
 
-**Utilizzo di asset 3D per la produzione videonel campo del cultural heritageDal reperto alla divulgazione scientifica**
+[IT]**Utilizzo di asset 3D per la produzione videonel campo del cultural heritageDal reperto alla divulgazione scientifica**
 
 https://webthesis.biblio.polito.it/13119/1/tesi.pdf
 
