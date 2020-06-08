@@ -3,6 +3,8 @@
 
 **User-guided 3D reconstruction using multi-view stereo**
 
+"The results from the reconstructions will primarily be compared tothe output of the automatic reconstruction software Meshroom"
+
 https://dl.acm.org/doi/abs/10.1145/3384382.3384530
 
 **mikros-cg-wire-et-creative-seeds-evoquent-leur-vision-de-lopen-source**
