@@ -283,3 +283,7 @@ https://informatik.hs-bremerhaven.de/dh2018/pdf/Pr%C3%A4sentation.pdf
 Listed as Non-ASWF Member Products/Projects in Assets and Workflow: Scenes and Geometry
 https://landscape.aswf.io/selected=meshroom
 
+---
+
+https://www.esma-artistique.com/meshroom-un-outil-de-photogrammetrie/
+https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/
