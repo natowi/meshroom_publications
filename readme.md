@@ -302,3 +302,5 @@ https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-al
 https://note.com/yohawing/n/n6607b9136c70
 
 [JP] https://qiita.com/kotauchisunsun/items/9e3444faec734ddedcb5
+
+[JP] https://www.nuhw.ac.jp/gakkai/20191018_1.pdf p.28
