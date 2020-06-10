@@ -61,6 +61,10 @@ Digital Production paper publication for digital artists with interview and tuto
 
 http://download.digitalproduction.com/Kostenlose%20PDFs%202019/DP1806_AliceVision_Meshroom.pdf
 
+**REPRESENTACIÓN AUTOMÁTICA EN 3D DE BAJOCOSTE PARA INSPECCIÓN VISUALDECOMPONENTES AERONÁUTICOS INSTALADOSEN ALA CON ACCESO LIMITADO**
+https://ciateq.repositorioinstitucional.mx/jspui/bitstream/1020/365/1/CorbalMontesJoseE%20MSIM%202019.pdf
+p41
+
 **2D & 3D RECONSTRUCTION WORKFLOWS FROM ARCHIVE IMAGES, CASE STUDY OF DAMAGED MONUMENTS IN BOSRA AL-SHAM CITY (SYRIA)**
 
 The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XLII-2/W15, 2019 27th CIPA International Symposium “Documenting the past for a better future”, 1–5 September 2019, Ávila, Spain
