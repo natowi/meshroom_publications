@@ -185,6 +185,10 @@ with comparison
 
 https://iopscience.iop.org/article/10.1088/1742-6596/1266/1/012008/pdf
 
+**IMAGE-BASED 3D SURFACE RECONSTRUCTION OF COLD-FORMED STEEL CSECTIONS**
+
+ec-3.org/conf2019/contribution_181_final/
+
 
 # Web publications (blogs, videos)
 
