@@ -46,12 +46,6 @@ https://hal.inria.fr/hal-02495831/document
 
 https://www.mdpi.com/2220-9964/8/5/221/pdf
 
-**Visual and textual content re-purposing FOR(4) architecture, Design and virtual reality games**
-
-In-depth comparison of software tools and libraries p42
-
-https://v4design.eu/wp-content/uploads/2019/07/D4.3_V4Design_v1.5.pdf
-
 **Geohazards Affecting Cultural HeritageMonuments. A Complex Case Study From Romania**
 
 Cultural Heritage (short mentioning)
@@ -99,6 +93,12 @@ Summary: Cultural heritage project
 small comparison, not really thorough regarding Meshroom 
 
 http://www.temjournal.com/content/82/TEMJournalMay2019_383_388.pdf
+
+**Visual and textual content re-purposing FOR(4) architecture, Design and virtual reality games**
+
+In-depth comparison of software tools and libraries p42
+
+https://v4design.eu/wp-content/uploads/2019/07/D4.3_V4Design_v1.5.pdf
 
 **Photogrammetry for 3D Reconstruction in SOLIDWORKS and its Applications in Industry**
 
