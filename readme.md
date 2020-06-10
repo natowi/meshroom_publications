@@ -41,6 +41,17 @@ Meshroom was used to generate a 3d mesh used for other studies (short mention)
 
 https://hal.inria.fr/hal-02495831/document
 
+**Automated Multi-Sensor 3D Reconstruction for the Web**
+(short mention)
+
+https://www.mdpi.com/2220-9964/8/5/221/pdf
+
+**Visual and textual content re-purposing FOR(4) architecture, Design and virtual reality games**
+
+In-depth comparison of software tools and libraries p42
+
+https://v4design.eu/wp-content/uploads/2019/07/D4.3_V4Design_v1.5.pdf
+
 **Geohazards Affecting Cultural HeritageMonuments. A Complex Case Study From Romania**
 
 Cultural Heritage (short mentioning)
