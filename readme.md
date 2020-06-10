@@ -83,6 +83,12 @@ https://www.researchgate.net/publication/334682161_Enhancing_heritage_fruition_t
 
 Summary: Cultural heritage project
 
+**Photogrammetric 3D Scanning of Physical Objects: Tools and Workflow**
+
+small comparison
+
+http://www.temjournal.com/content/82/TEMJournalMay2019_383_388.pdf
+
 **Photogrammetry for 3D Reconstruction in SOLIDWORKS and its Applications in Industry**
 
 Photogrammetry Thesis,  Purdue University 2019
