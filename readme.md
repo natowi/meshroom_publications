@@ -85,7 +85,7 @@ Summary: Cultural heritage project
 
 **Photogrammetric 3D Scanning of Physical Objects: Tools and Workflow**
 
-small comparison
+small comparison, not really thorough regarding Meshroom 
 
 http://www.temjournal.com/content/82/TEMJournalMay2019_383_388.pdf
 
