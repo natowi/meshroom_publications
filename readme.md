@@ -353,7 +353,7 @@ https://note.com/yohawing/n/n6607b9136c70
 - See You Up There, Directed by Albert Dupontel, Production of ADCB Films, Manchester Films (300 pictures from drone shooting, Parisian shooting set extended with Moroccan village.)
 - Santa & Cie, Directed by Alain Chabat, Gaumont Distribution (survey of the shooting set)
 - Animation feature films “Sherlock Gnomes” dir. John Stevenson, MGM/Paramount Pictures/Rocket Pictures
-(80 pictures with DSLR, Chinese District in London reference, used as reference for modelling of the chinese style gate)
+(80 pictures with DSLR, Chinese District in London reference, used as reference for modelling of the chinese style gate at the beginning of the Chinatown scene)
 
 https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/
 https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bd51f568&appId=PPGMS
