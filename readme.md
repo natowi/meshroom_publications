@@ -100,6 +100,12 @@ In-depth comparison of software tools and libraries p42
 
 https://v4design.eu/wp-content/uploads/2019/07/D4.3_V4Design_v1.5.pdf
 
+https://v4design.eu/2019/07/11/first-3d-reconstructions-being-generated/
+
+**Processing existing building geometry for reuse as Linked Data**
+
+https://www.sciencedirect.com/science/article/abs/pii/S0926580519308234?dgcid=rss_sd_all
+
 **Photogrammetry for 3D Reconstruction in SOLIDWORKS and its Applications in Industry**
 
 Photogrammetry Thesis,  Purdue University 2019
