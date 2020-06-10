@@ -162,6 +162,18 @@ https://webthesis.biblio.polito.it/13119/1/tesi.pdf
 
 https://cordis.europa.eu/project/rcn/205980/results/en 
 
+**Comparison-of-Algorithms-for-3D-Reconstruction-Masson-Petry**
+
+with comparison
+
+https://www.semanticscholar.org/paper/Comparison-of-Algorithms-for-3D-Reconstruction-Masson-Petry/7715caf69845973e1113de47030e26c93f941f56
+
+**Application of ‘Structure from Motion’ (SfM) technique in physical hydraulic modelling**
+
+with comparison
+
+https://iopscience.iop.org/article/10.1088/1742-6596/1266/1/012008/pdf
+
 
 # Web publications (blogs, videos)
 
