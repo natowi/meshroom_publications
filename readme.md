@@ -227,6 +227,8 @@ Summary: Meshroom in C4D pipeline
 
 Summary: Interesting reconstruction comparison with difficult car reconstruction (high reflection)
 
+[CN] **基于sfm算法的三维重建软件集成** (thesis by Tao Wang (@TigerVsT))
+InstantMeshes and DracoEncoder/Decoder plugins for Meshroom
 
 * https://www.youtube.com/watch?v=JHWf1KjI3J0
 
