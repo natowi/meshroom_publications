@@ -116,6 +116,10 @@ https://scholarworks.iupui.edu/handle/1805/19992
 
 Summary: Includes Alicevision Plugin for Solidworks
 
+
+[CN] **基于sfm算法的三维重建软件集成** (thesis by Tao Wang (@TigerVsT))
+InstantMeshes and DracoEncoder/Decoder plugins for Meshroom
+
 **Microstructures and Deformation Mechanisms of Ballistic Impacts in Stone** (PhD thesis 2020)
 Oliver Campbell, School of Earth and Ocean Sciences, Cardiff University
 context https://www.heritageinthecrossfire.com/
@@ -226,9 +230,6 @@ Summary: Meshroom in C4D pipeline
 (https://www.youtube.com/watch?v=vDjQVBm7HYI)
 
 Summary: Interesting reconstruction comparison with difficult car reconstruction (high reflection)
-
-[CN] **基于sfm算法的三维重建软件集成** (thesis by Tao Wang (@TigerVsT))
-InstantMeshes and DracoEncoder/Decoder plugins for Meshroom
 
 * https://www.youtube.com/watch?v=JHWf1KjI3J0
 
