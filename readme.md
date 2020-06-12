@@ -351,6 +351,20 @@ https://note.com/yohawing/n/n6607b9136c70
 
 [JP] https://www.nuhw.ac.jp/gakkai/20191018_1.pdf p.28
 
+
+[EN] Creating a 3D model of the church (thesis)
+
+Michal Novotný 
+https://dspace.cvut.cz/handle/10467/83544
+
+[EN] Structure from Motion applied to movable bed scale models (thesis)
+Ujjwal Shrestha 2019
+https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2630147/no.ntnu%3Ainspera%3A43469946%3A25755829.pdf?sequence=1&isAllowed=y
+
+[EN] forensic applications of 3d scanning
+Jimmy Tang 2019
+https://old.taltech.ee/public/k/kyberkriminalistika_ja_kyberjulgeoleku_keskus/proceeding.pdf p73
+
 # Meshroom used in cinematic productions
 
 - See You Up There, Directed by Albert Dupontel, Production of ADCB Films, Manchester Films (300 pictures from drone shooting, Parisian shooting set extended with Moroccan village.)
