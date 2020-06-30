@@ -27,6 +27,14 @@ Reconstruction accuracy comparison between Meshroom and Agisoft Metashape and VS
 
 https://cris.brighton.ac.uk/ws/portalfiles/portal/7238946/Digital_Modernismo.pdf
 
+[EN] **A Robust and Versatile Pipeline for Automatic Photogrammetric-Based Registration of Multimodal Cultural Heritage Documentation**
+
+Cultural Heritage
+
+Short mentioning of CCTAG and AliceVision
+
+https://www.mdpi.com/2072-4292/12/12/2051/htm
+
 [GER] **Digitale Chancen in der Messtechnik: LowCost-Ansätze für komplexe Messaufgaben am Beispiel des Modelldeichs der TU Dresden**
 
 Hydraulic Engineering
