@@ -1,7 +1,7 @@
 
 # Text publications (book, paper, academic,...)
 
-**User-guided 3D reconstruction using multi-view stereo**
+[EN] **User-guided 3D reconstruction using multi-view stereo**
 
 "The results from the reconstructions will primarily be compared to the output of the automatic reconstruction software Meshroom"
 
@@ -13,13 +13,19 @@ Short official Meshroom conference presentation video
 
 https://www.3dvf.com/mikros-cg-wire-et-creative-seeds-evoquent-leur-vision-de-lopen-source/
 
-[FIN]**Fotogrammetria mallintajan työkaluna**
+[FIN] **Fotogrammetria mallintajan työkaluna**
 
 Photography as a tool for 3D modeling (thesis). Meshroom reconstruction example. 
 
 https://www.theseus.fi/bitstream/handle/10024/336897/Paloja%CC%88rvi_Hilla.pdf?sequence=2
 
-**Accessible Digitisation and Visualisationof Open Cultural Heritage Assets**
+[EN] **Photogrammetric reconstruction software as a cost-efficient support tool in conservation research**
+
+conservation research
+
+https://content.sciendo.com/view/journals/techtrans/117/1/article-20200021.xml
+
+[EN] **Accessible Digitisation and Visualisationof Open Cultural Heritage Assets**
 
 Cultural Heritage
 
@@ -295,7 +301,9 @@ https://www.blendernation.com/2019/11/20/behind-the-scenes-3d-castle-set-extensi
 **3D Photoscanning - Optimizing Meshroom Photoscans**
 https://www.youtube.com/watch?v=J3esNV0wXAo
 
+**Photogrammetry with your phone**
 
+https://hackspace.raspberrypi.org/articles/photogrammetry-with-your-phone
 
 
 # Other
@@ -372,6 +380,9 @@ https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2630147/no.ntnu%3Ains
 [EN] forensic applications of 3d scanning
 Jimmy Tang 2019
 https://old.taltech.ee/public/k/kyberkriminalistika_ja_kyberjulgeoleku_keskus/proceeding.pdf p73
+
+**Toolchain Development for Automated Scene Reconstruction using Artificial Neural Network Object Detection and Photogrammetry for the Application in Driving Simulators**
+https://www.insticc.org/node/TechnicalProgram/simultech/2020/presentationDetails/95905
 
 # Meshroom used in cinematic productions
 
