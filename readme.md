@@ -384,6 +384,8 @@ https://old.taltech.ee/public/k/kyberkriminalistika_ja_kyberjulgeoleku_keskus/pr
 **Toolchain Development for Automated Scene Reconstruction using Artificial Neural Network Object Detection and Photogrammetry for the Application in Driving Simulators**
 https://www.insticc.org/node/TechnicalProgram/simultech/2020/presentationDetails/95905
 
+**https://www.blenderdiplom.com/en/interviews/717-interview-alicevision-s-photogrammetry-solution-meshroom.html**
+
 # Meshroom used in cinematic productions
 
 - See You Up There, Directed by Albert Dupontel, Production of ADCB Films, Manchester Films (300 pictures from drone shooting, Parisian shooting set extended with Moroccan village.)
