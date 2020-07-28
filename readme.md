@@ -395,3 +395,8 @@ https://www.insticc.org/node/TechnicalProgram/simultech/2020/presentationDetails
 
 https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/
 https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bd51f568&appId=PPGMS
+
+
+--
+
+https://www.gamearter.com/blog/meshroom-3d-scanning-with-photogrammetry
