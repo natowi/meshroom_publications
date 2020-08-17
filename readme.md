@@ -400,3 +400,5 @@ https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=
 --
 
 https://www.gamearter.com/blog/meshroom-3d-scanning-with-photogrammetry
+
+https://www.researchgate.net/publication/334682161_Enhancing_heritage_fruition_through_3D_virtual_models_and_augmented_reality_an_application_to_roman_artefacts
