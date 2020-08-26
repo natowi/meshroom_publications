@@ -393,6 +393,7 @@ https://www.insticc.org/node/TechnicalProgram/simultech/2020/presentationDetails
 - Animation feature films “Sherlock Gnomes” dir. John Stevenson, MGM/Paramount Pictures/Rocket Pictures
 (80 pictures with DSLR, Chinese District in London reference, used as reference for modelling of the chinese style gate at the beginning of the Chinatown scene)
 
+
 https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/
 https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bd51f568&appId=PPGMS
 
@@ -402,3 +403,5 @@ https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=
 https://www.gamearter.com/blog/meshroom-3d-scanning-with-photogrammetry
 
 https://www.researchgate.net/publication/334682161_Enhancing_heritage_fruition_through_3D_virtual_models_and_augmented_reality_an_application_to_roman_artefacts
+
+https://www.youtube.com/watch?v=oa_FofFYiYo latest Meshroom news 2020
