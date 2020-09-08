@@ -386,7 +386,9 @@ https://www.insticc.org/node/TechnicalProgram/simultech/2020/presentationDetails
 
 **https://www.blenderdiplom.com/en/interviews/717-interview-alicevision-s-photogrammetry-solution-meshroom.html**
 
-# Meshroom used in cinematic productions
+# Use cases
+
+**Meshroom used in cinematic productions**
 
 - See You Up There, Directed by Albert Dupontel, Production of ADCB Films, Manchester Films (300 pictures from drone shooting, Parisian shooting set extended with Moroccan village.)
 - Santa & Cie, Directed by Alain Chabat, Gaumont Distribution (survey of the shooting set)
@@ -397,11 +399,17 @@ https://www.insticc.org/node/TechnicalProgram/simultech/2020/presentationDetails
 https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/
 https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bd51f568&appId=PPGMS
 
-# Meshroom in Game Development
+**Meshroom in Game Development**
 
 www.wargaming.com uses Meshroom to reconstruct objects for 3d asset creation (https://groups.google.com/g/alicevision/c/LFg9on5j71k)
 
---
+**Meshroom for medical/forensic purposes**
+
+- used in forensic pathology https://groups.google.com/forum/#!topic/alicevision/hxq_7OS4t4Q
+
+---
+------
+---
 
 https://www.gamearter.com/blog/meshroom-3d-scanning-with-photogrammetry
 
