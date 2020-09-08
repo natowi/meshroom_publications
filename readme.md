@@ -399,6 +399,8 @@ https://www.insticc.org/node/TechnicalProgram/simultech/2020/presentationDetails
 https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/
 https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bd51f568&appId=PPGMS
 
+- La Vida en un Baile" Documental de Blanca Rey (Low Budget production) https://www.youtube.com/watch?v=MqDMGgcR5Y4
+
 **Meshroom in Game Development**
 
 www.wargaming.com uses Meshroom to reconstruct objects for 3d asset creation (https://groups.google.com/g/alicevision/c/LFg9on5j71k)
