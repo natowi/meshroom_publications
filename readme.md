@@ -451,4 +451,6 @@ https://www.youtube.com/watch?v=oa_FofFYiYo latest Meshroom news 2020
 
 [EN] https://doi.org/10.37705/TechTrans/e2020021
 
+[KR] https://gaia3d.com/wp-content/uploads/2020/10/%EB%B0%B0%ED%8F%AC%EC%9A%A9_%ED%99%A9%EC%83%81%ED%9B%8820201009_EANTECHNOLOGY_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_-_%EB%94%94%EC%A7%80%ED%84%B8_%ED%8A%B8%EC%9C%88%EC%9D%98_%EC%9E%91%EC%84%B1%EA%B3%BC_BIM%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%ED%99%98%EA%B2%BD%EB%B6%84%EC%84%9D%EA%B8%B0%EC%88%A0_%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf (use case: BIM)
+
 
