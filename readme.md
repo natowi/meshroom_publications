@@ -410,7 +410,7 @@ www.wargaming.com uses Meshroom to reconstruct objects for 3d asset creation (ht
 - used in forensic pathology https://groups.google.com/forum/#!topic/alicevision/hxq_7OS4t4Q
 
 ---
-------
+------ May contain duplicates:
 ---
 
 https://www.gamearter.com/blog/meshroom-3d-scanning-with-photogrammetry
@@ -418,3 +418,37 @@ https://www.gamearter.com/blog/meshroom-3d-scanning-with-photogrammetry
 https://www.researchgate.net/publication/334682161_Enhancing_heritage_fruition_through_3D_virtual_models_and_augmented_reality_an_application_to_roman_artefacts
 
 https://www.youtube.com/watch?v=oa_FofFYiYo latest Meshroom news 2020
+
+[IT] https://webthesis.biblio.polito.it/13119/1/tesi.pdf
+
+[EN] https://ec-3.org/conf2019/wp-content/uploads/sites/2/2019/10/Final_Complete_Proceedings_V8.pdf
+
+[EN] https://hal.archives-ouvertes.fr/hal-01683842v4/document
+
+[EN] http://gtg.webhost.uoradea.ro/PDF/GTG-3-2020/gtg.31323-546.pdf
+
+[EN] http://www.gistam.org/Documents/Previous_Invited_Speakers/2020/GISTAM_2020_KS_2_Presentation.pdf (use case)
+
+[ES] https://eprints.ucm.es/60840/1/Fotogrametria_Apuntes_para_una_introduccion_practica_Dario_Lanza.pdf
+
+[EN] https://o-date.github.io/draft/book/odate.pdf
+
+[EN] https://riunet.upv.es/bitstream/handle/10251/150763/Valencia%20-%20Dise%C3%B1o%20de%20un%20producto%20industrial%20mediante%20t%C3%A9cnicas%20de%20impresi%C3%B3n%203D%20y%20nuevos%20materiales.pdf
+
+[RU] https://bi.hse.ru/data/2020/07/10/1595002075/metodika_photogrammetry.pdf
+
+[EN] https://hal.archives-ouvertes.fr/hal-02961031/document
+
+[EN] https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B1-2020/243/2020/isprs-archives-XLIII-B1-2020-243-2020.pdf
+
+[EN] https://arxiv.org/pdf/1912.03005.pdf
+
+[EN] https://www.biorxiv.org/content/10.1101/2019.12.16.878033v1.full.pdf
+
+[EN] ftp://ftp.gouv.nc/sig/PUBLIC/GISDAY_2019/GIS_DAY_2019_Atelier2_Model_3D_PierreLoup_Ducroix.pdf
+
+[EN] https://repository.tudelft.nl/islandora/object/uuid:d0aea6ed-0937-4ae4-8678-b88bb42ffce6/datastream/OBJ2/download
+
+[EN] https://doi.org/10.37705/TechTrans/e2020021
+
+
