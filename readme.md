@@ -457,4 +457,9 @@ https://www.youtube.com/watch?v=oa_FofFYiYo latest Meshroom news 2020
 
 [EN] https://www.gamedesigning.org/learn/meshroom-tutorial/ (simple tutorial)
 
+[EN] https://www.researchgate.net/publication/343520729_A_MODULAR_MOBILE_MAPPING_PLATFORM_FOR_COMPLEX_INDOOR_AND_OUTDOOR_ENVIRONMENTS
 
+[EN] Datasets of captured images of three different devices for photogrammetry calculation comparison and integration into a laserscan point cloud of a built environment
+https://doi.org/10.1016/j.dib.2020.106321
+
+[EN] https://www.foxrenderfarm.com/kr/news/how-to-create-a-cg-scene-in-norman-rockwell-style-in-blender/ (use case)
