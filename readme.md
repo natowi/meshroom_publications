@@ -455,6 +455,6 @@ https://www.youtube.com/watch?v=oa_FofFYiYo latest Meshroom news 2020
 
 [EN] https://doi.org/10.37705/TechTrans/e2020021
 
-
+[EN] https://www.gamedesigning.org/learn/meshroom-tutorial/ (simple tutorial)
 
 
