@@ -463,3 +463,7 @@ https://www.youtube.com/watch?v=oa_FofFYiYo latest Meshroom news 2020
 https://doi.org/10.1016/j.dib.2020.106321
 
 [EN] https://www.foxrenderfarm.com/kr/news/how-to-create-a-cg-scene-in-norman-rockwell-style-in-blender/ (use case)
+
+[EN] Digitising Haswell specimens https://haswellmuseum.wordpress.com/2020/09/29/digitising-haswell-specimens-using-photogrammetry/
+
+[EN] Open Source Digital Heritage - Meshroom (Photogrammetry) https://www.youtube.com/watch?v=ISAKM6sVtwA
