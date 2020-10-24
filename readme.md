@@ -467,3 +467,7 @@ https://doi.org/10.1016/j.dib.2020.106321
 [EN] Digitising Haswell specimens https://haswellmuseum.wordpress.com/2020/09/29/digitising-haswell-specimens-using-photogrammetry/
 
 [EN] Open Source Digital Heritage - Meshroom (Photogrammetry) https://www.youtube.com/watch?v=ISAKM6sVtwA
+
+https://alexfiel.com/atlas-virtual-graduation
+
+https://medium.com/process-blog-sounak-ghosh/time-capsule-part-1-d8bc3b99017f
