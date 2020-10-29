@@ -475,3 +475,5 @@ https://doi.org/10.1016/j.dib.2020.106321
 https://alexfiel.com/atlas-virtual-graduation
 
 https://medium.com/process-blog-sounak-ghosh/time-capsule-part-1-d8bc3b99017f
+
+https://exyte.com/blog/a-scanning-dream-using-a-camera
