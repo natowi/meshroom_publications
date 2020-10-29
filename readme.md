@@ -401,6 +401,10 @@ https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=
 
 - La Vida en un Baile" Documental de Blanca Rey (Low Budget production) https://www.youtube.com/watch?v=MqDMGgcR5Y4
 
+**Meshroom used in Music Videos**
+
+"Linda la Cumbia" - La Yegros, Video by Al3ph https://www.youtube.com/watch?v=4ThKJjPho0o (22.09.2019) / Making of: https://aletheiadesign.fr/linda-la-cumbia-la-yegros/ (3D Reconstruction of La Yegros)
+
 **Meshroom in Game Development**
 
 www.wargaming.com uses Meshroom to reconstruct objects for 3d asset creation (https://groups.google.com/g/alicevision/c/LFg9on5j71k)
