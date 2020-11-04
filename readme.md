@@ -479,3 +479,11 @@ https://medium.com/process-blog-sounak-ghosh/time-capsule-part-1-d8bc3b99017f
 https://exyte.com/blog/a-scanning-dream-using-a-camera
 
 https://foss4g.no/ Muligheter med åpne løsninger for håndtering av feltdata Kay Henning Kleverud, Sør-Odal kommune
+
+A   Comparative   Analysis   of   Different   Software   Packages   for   3D   Modelling   of   Complex Geometries (Project Paper) Styliani Verykokouet al.
+https://www.cut.ac.cy/euromed2020proceedings/pdf/Euromed2020_BOOKLET.pdf
+
+OPEN-SOURCE IMAGE-BASED 3D RECONSTRUCTION PIPELINES: REVIEW, COMPARISON AND EVALUATION https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/331/2019/isprs-archives-XLII-2-W17-331-2019.pdf (has some flaws)
+
+
+
