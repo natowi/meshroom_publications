@@ -477,3 +477,5 @@ https://alexfiel.com/atlas-virtual-graduation
 https://medium.com/process-blog-sounak-ghosh/time-capsule-part-1-d8bc3b99017f
 
 https://exyte.com/blog/a-scanning-dream-using-a-camera
+
+https://foss4g.no/ Muligheter med åpne løsninger for håndtering av feltdata Kay Henning Kleverud, Sør-Odal kommune
