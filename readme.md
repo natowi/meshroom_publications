@@ -495,3 +495,21 @@ https://zir.nsk.hr/islandora/object/fpz%3A2217/datastream/PDF/view
 https://hal.archives-ouvertes.fr/hal-02964852/document
 
 https://webthesis.biblio.polito.it/15819/1/tesi.pdf
+
+https://content.sciendo.com/downloadpdf/journals/techtrans/117/1/article-20200021.xml
+
+casopisi.junis.ni.ac.rs/index.php/FUElectEnerg/article/download/5746/3622
+
+https://www.mdpi.com/2072-4292/12/16/2583/pdf
+
+https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00071501/IFToMM_D-A-CH_2020.pdf
+
+https://epublications.uef.fi/pub/urn_nbn_fi_uef-20201434/urn_nbn_fi_uef-20201434.pdf
+
+https://epub.ub.uni-muenchen.de/71976/1/Weil_RaisingAwarenessForEndangeredSpeciesUsingAR.pdf
+
+https://openaccess.thecvf.com/content_CVPR_2020/papers/Polic_Uncertainty_Based_Camera_Model_Selection_CVPR_2020_paper.pdf
+
+https://hal.inria.fr/hal-02280281v2/document
+
+
