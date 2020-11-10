@@ -487,3 +487,7 @@ OPEN-SOURCE IMAGE-BASED 3D RECONSTRUCTION PIPELINES: REVIEW, COMPARISON AND EVAL
 
 
 https://wuiview.org/download/WUIVIEW_D5.2_F.pdf
+
+https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2020/1107/2020/isprs-archives-XLIII-B2-2020-1107-2020.pdf
+
+https://zir.nsk.hr/islandora/object/fpz%3A2217/datastream/PDF/view
