@@ -512,4 +512,11 @@ https://openaccess.thecvf.com/content_CVPR_2020/papers/Polic_Uncertainty_Based_C
 
 https://hal.inria.fr/hal-02280281v2/document
 
+A QoE Evaluation of an ImmersiveVirtual Reality Autonomous Driving Experience
+https://research.thea.ie/bitstream/handle/20.500.12065/3341/A%20QoE%20evaluation%20of%20an%20immersive%20virtual%20reality%20....pdf?sequence=1&isAllowed=y
+
+https://www.geoarpad.eu/sites/w_geoarp/files/piloto_1._appturistica_especifica_con_los_recursos_mas_relevantes_de_galicia_y_el_norte_de_p.pdf
+
+https://bia.unibz.it/discovery/fulldisplay/alma991005772911101241/39UBZ_INST:ResearchRepository
+
 
