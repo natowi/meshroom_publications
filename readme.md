@@ -519,4 +519,4 @@ https://www.geoarpad.eu/sites/w_geoarp/files/piloto_1._appturistica_especifica_c
 
 https://bia.unibz.it/discovery/fulldisplay/alma991005772911101241/39UBZ_INST:ResearchRepository
 
-
+https://www.youtube.com/watch?v=CxKzHJEff4w History of Meshroom 2018
