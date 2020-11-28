@@ -1,6 +1,19 @@
 
 # Text publications (book, paper, academic,...)
 
+[EN] **Dinosaur tracks and crocodilian remains**
+
+Small ornithopod dinosaur tracks and crocodilian remains from the Middle Jurassic Bagå Formation, Born-holm, Denmark.
+(...) tracks  were  digitized  via  photogrammetry,  using  photos  taken  with  a  16mp  FujiFilm  FinePix  XP80,  and  processed  using  AliceVision  Meshroom
+
+https://2dgf.dk/xpdf/bull68-245-253.pdf
+
+[EN] **SENSOR EVALUATION FOR CRACK DETECTION IN CONCRETE BRIDGES**
+
+To determine and output the camera poses as illustrated (...), the authors used the freeware Meshroom
+
+https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2020/1107/2020/isprs-archives-XLIII-B2-2020-1107-2020.pdf
+
 [EN] **User-guided 3D reconstruction using multi-view stereo**
 
 "The results from the reconstructions will primarily be compared to the output of the automatic reconstruction software Meshroom"
