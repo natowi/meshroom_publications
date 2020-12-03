@@ -540,3 +540,25 @@ https://bia.unibz.it/discovery/fulldisplay/alma991005772911101241/39UBZ_INST:Res
 https://www.youtube.com/watch?v=CxKzHJEff4w History of Meshroom 2018
 
 [EN] https://www.simonplanzer.com/articles/meshroom/
+
+[EN] https://shemesh.larc.nasa.gov/people/cam/publications/DASC2020-MGGMBMD-draft.pdf
+
+https://www.researchgate.net/profile/Luca_Bezzi/publication/340298038_Seconda_esplorazione_speleoarcheologica_del_Bus_dela_Spia/links/5e830993a6fdcca789e21323/Seconda-esplorazione-speleoarcheologica-del-Bus-dela-Spia.pdf
+
+https://riull.ull.es/xmlui/bitstream/handle/915/21309/Propuesta%20para%20la%20reintegracion%20en%20obras%20escultoricas%20y%20pictoricas..pdf?sequence=1
+
+https://aaltodoc.aalto.fi/handle/123456789/43819
+
+http://scielo.senescyt.gob.ec/pdf/estoa/v9n18/1390-9274-estoa-9-18-00164.pdf (mentioned)
+http://anthropology.ucsd.edu/_files/Borrero%20and%20Stroth%202020.pdf (mentioned)
+
+https://unswcode.org/wp-content/uploads/2020/01/1224248864-2251443_Nicholas_Lucchese_SUBSTANCE_WITHOUT_FORM_WORK__Nicholas_Lucchese_2561293_139869028.pdf
+
+https://www.researchgate.net/publication/344327446_Fusion_d%27approches_photometriques_et_geometriques_pour_la_creation_de_modeles_3D (**Fusion d'approches photométriques et géométriques pour la création de modèles 3D** by Jean Mélou; Advisor: Jean-Denis Durou, Yvain Quéau, Fabien Castan)
+
+https://www.sciencedirect.com/science/article/abs/pii/S1364032120302707
+
+
+
+
+
