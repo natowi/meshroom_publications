@@ -559,6 +559,10 @@ https://www.researchgate.net/publication/344327446_Fusion_d%27approches_photomet
 https://www.sciencedirect.com/science/article/abs/pii/S1364032120302707
 
 
+https://www.raywenderlich.com/9559662-using-meshroom-to-insert-real-life-objects-in-unity
 
+https://www.youtube.com/watch?v=PMk6H0nh5-Y
+
+https://www.youtube.com/watch?v=d4FGrVh5ZrI
 
 
