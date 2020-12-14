@@ -422,9 +422,12 @@ https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=
 
 www.wargaming.com uses Meshroom to reconstruct objects for 3d asset creation (https://groups.google.com/g/alicevision/c/LFg9on5j71k)
 
-**Meshroom for medical/forensic purposes**
+**Meshroom for medical/forensic/conservation purposes**
 
 - used in forensic pathology https://groups.google.com/forum/#!topic/alicevision/hxq_7OS4t4Q
+
+- used by http://evo-biomech.ic.ac.uk/ EvoBiomech to scan arthropods https://sketchfab.com/3d-models/orthomeria-versicolor-22b7a32ac85d43539038573d7a5d7a35
+
 
 ---
 ------ May contain duplicates:
