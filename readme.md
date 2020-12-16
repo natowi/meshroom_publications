@@ -569,3 +569,5 @@ https://www.youtube.com/watch?v=PMk6H0nh5-Y
 https://www.youtube.com/watch?v=d4FGrVh5ZrI
 
 https://arxiv.org/pdf/2012.01044.pdf
+
+https://recipp.ipp.pt/bitstream/10400.22/15717/1/DM_PauloRodrigues_2020_MEEC.pdf GeoTec: Sistema de reconstrução 3D baseado em imagem para cenários GPSdenied PAULO MIGUEL DA CUNHA RODRIGUES
