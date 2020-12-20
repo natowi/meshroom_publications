@@ -577,3 +577,5 @@ https://www.sciencedirect.com/science/article/pii/S0022098120302380 Exploring da
 https://iopscience.iop.org/article/10.1088/1755-1315/609/1/012068/pdf
 
 https://www.researchgate.net/publication/347079712_Devices_and_Methods_for_Rapid_3D_Photo-Capture_and_Photogrammetry_of_Small_Reptiles_and_Amphibians_in_the_Laboratory_and_the_Field
+
+http://digitallife3d.org/gear "we also use various other software packages, such as Houdini, Meshroom, Capturing Reality, and others"
