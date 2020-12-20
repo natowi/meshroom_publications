@@ -571,3 +571,5 @@ https://www.youtube.com/watch?v=d4FGrVh5ZrI
 https://arxiv.org/pdf/2012.01044.pdf
 
 https://recipp.ipp.pt/bitstream/10400.22/15717/1/DM_PauloRodrigues_2020_MEEC.pdf GeoTec: Sistema de reconstrução 3D baseado em imagem para cenários GPSdenied PAULO MIGUEL DA CUNHA RODRIGUES
+
+https://www.sciencedirect.com/science/article/pii/S0022098120302380 Exploring data from an individual stranding of a Cuvier's beaked whale in the Gulf of Taranto (Northern Ionian Sea, Central-eastern Mediterranean Sea)
