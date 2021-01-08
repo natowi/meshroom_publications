@@ -581,3 +581,5 @@ https://www.researchgate.net/publication/347079712_Devices_and_Methods_for_Rapid
 http://digitallife3d.org/gear "we also use various other software packages, such as Houdini, Meshroom, Capturing Reality, and others" (project details https://www.researchgate.net/publication/331985178_Using_3D_Photogrammetry_to_Create_Open-Access_Models_of_Live_Animals_2D_and_3D_Software_Solutions)
 
 https://www.raywenderlich.com/9559662-using-meshroom-to-insert-real-life-objects-in-unity
+
+https://pushcreativity.co.uk/3d-christmas-lincoln marketing video (use case)
