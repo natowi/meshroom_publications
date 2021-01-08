@@ -589,3 +589,9 @@ https://www.researchgate.net/publication/345780914_Creation_of_accurate_3D_model
 https://www.esaine.com/proyectos/fotogrametria-de-un-monumento-publico  (use case)
 
 https://www.sciencedirect.com/science/article/abs/pii/S0924271620301131 "the RMSE of these two open-source software packages, i.e., ColMap and AliceVision, is larger than that of Metashape and Pix4Dmapper. However, they achieve a better performance when compared with RealityCapture."
+
+https://iopscience.iop.org/article/10.1088/1757-899X/1007/1/012026/pdf
+
+https://iopscience.iop.org/article/10.1088/1755-1315/609/1/012068/pdf
+
+https://arxiv.org/pdf/2012.11779.pdf
