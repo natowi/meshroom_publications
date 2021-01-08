@@ -583,3 +583,7 @@ http://digitallife3d.org/gear "we also use various other software packages, such
 https://www.raywenderlich.com/9559662-using-meshroom-to-insert-real-life-objects-in-unity
 
 https://pushcreativity.co.uk/3d-christmas-lincoln marketing video (use case)
+
+https://www.researchgate.net/publication/345780914_Creation_of_accurate_3D_models_of_harbor_porpoises_Phocoena_phocoena_using_3D_photogrammetry (use case)
+
+https://www.esaine.com/proyectos/fotogrametria-de-un-monumento-publico  (use case)
