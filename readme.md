@@ -587,3 +587,5 @@ https://pushcreativity.co.uk/3d-christmas-lincoln marketing video (use case)
 https://www.researchgate.net/publication/345780914_Creation_of_accurate_3D_models_of_harbor_porpoises_Phocoena_phocoena_using_3D_photogrammetry (use case)
 
 https://www.esaine.com/proyectos/fotogrametria-de-un-monumento-publico  (use case)
+
+https://www.sciencedirect.com/science/article/abs/pii/S0924271620301131 "the RMSE of these two open-source software packages, i.e., ColMap and AliceVision, is larger than that of Metashape and Pix4Dmapper. However, they achieve a better performance when compared with RealityCapture."
