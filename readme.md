@@ -599,3 +599,9 @@ https://arxiv.org/pdf/2012.11779.pdf
 https://www.blendernation.com/2021/01/13/behind-the-scenes-a-red-cabin/
 
 https://www.youtube.com/watch?v=93yZZjGqk_s Music video For Those I Love - Birthday / The Pain
+
+https://habr.com/ru/post/491742/
+
+https://fieldnotes.staging.nationalgeographic.org/expedition/michigandiver
+
+https://www.appropedia.org/Create,_Share,_and_Save_Money_Using_Open-Source_Projects
