@@ -8,6 +8,12 @@ Small ornithopod dinosaur tracks and crocodilian remains from the Middle Jurassi
 
 https://2dgf.dk/xpdf/bull68-245-253.pdf
 
+[EN] **RGB-D Railway Platform Monitoring and SceneUnderstanding for Enhanced Passenger Safety**
+
+We exploit the modular concepts of Meshroom and  demonstrate  its  use  as  a  generic  vision  processing pipeline and scalable evaluation framework
+
+https://arxiv.org/pdf/2102.11730.pdf
+
 [EN] **SENSOR EVALUATION FOR CRACK DETECTION IN CONCRETE BRIDGES**
 
 To determine and output the camera poses as illustrated (...), the authors used the freeware Meshroom
@@ -605,3 +611,9 @@ https://habr.com/ru/post/491742/
 https://fieldnotes.staging.nationalgeographic.org/expedition/michigandiver
 
 https://www.appropedia.org/Create,_Share,_and_Save_Money_Using_Open-Source_Projects
+
+https://formlabs.com/blog/photogrammetry-guide-and-software-comparison/#AliceVision%20Meshroom
+
+https://www.youtube.com/watch?v=Iy9KUAO3Oe0
+
+https://peterfalkingham.com/2021/03/02/meshroom-2021-1-0-whats-new-and-what-parameters-to-tweak/
