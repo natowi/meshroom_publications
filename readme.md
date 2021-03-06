@@ -617,3 +617,13 @@ https://formlabs.com/blog/photogrammetry-guide-and-software-comparison/#AliceVis
 https://www.youtube.com/watch?v=Iy9KUAO3Oe0
 
 https://peterfalkingham.com/2021/03/02/meshroom-2021-1-0-whats-new-and-what-parameters-to-tweak/
+
+https://betrieb-machen.de/nachgelesen-wie-digitalisierung-bei-der-fabrikplanung-unterstuetzt/ short mention
+
+https://www.springerprofessional.de/stereo-camera-simulation-in-blender/18929920
+
+https://iopscience.iop.org/article/10.1088/1757-899X/1073/1/012066/pdf
+
+https://theretiredengineer.wordpress.com/2021/02/21/more-droning/
+
+[GER] https://boris.unibe.ch/150853/1/2020_Bildbasierte_3D_Dokumentation.pdf Meshroom is among the used open source tool in archaeology
