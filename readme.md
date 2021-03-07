@@ -698,7 +698,7 @@ https://arxiv.org/abs/2102.02502
 
 **Review of Photogrammetry Techniques for 3D Scanning Tasks of Buildings**
 
-Reconstruction quality analysis and comparision of DFF Zephyr, Agisoft Metashape, Meshroom and Pix4D Mapper
+Reconstruction quality analysis and comparison of DFF Zephyr, Agisoft Metashape, Meshroom and Pix4D Mapper
 
 "The second in quality is Meshroom, which also raised all four walls. "
 https://www.fruct.org/publications/acm28/files/Kov.pdf
