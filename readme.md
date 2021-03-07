@@ -627,3 +627,86 @@ https://iopscience.iop.org/article/10.1088/1757-899X/1073/1/012066/pdf
 https://theretiredengineer.wordpress.com/2021/02/21/more-droning/
 
 [GER] https://boris.unibe.ch/150853/1/2020_Bildbasierte_3D_Dokumentation.pdf Meshroom is among the used open source tool in archaeology
+
+**From Building Information Modelling to Mixed Reality** 2021
+by Cecilia Bolognesi, Daniele Villa, Springer, p.166
+https://link.springer.com/chapter/10.1007/978-3-030-49278-6_10
+"Agisoft Metashape and Meshroom are the photomodelling software used for the reconstruction of the point cloud and the mesh model that has returned the real environments surveyed to scale"
+
+**A state-of-the-art review of automated extraction of rock mass discontinuity characteristics using three-dimensional surface models** 2021
+software list
+https://www.sciencedirect.com/science/article/pii/S1674775521000287
+
+**Deriving Land and Water Surface Elevations in the Northeastern Yucatán Peninsula Using PPK GPS and UAV-Based Structure from Motion** 2021
+short mentioning
+https://www.tandfonline.com/doi/abs/10.1080/23754931.2021.1871937
+https://www.academia.edu/45071231/Deriving_Land_and_Water_Surface_Elevations_in_the_Northeastern_Yucat%C3%A1n_Peninsula_Using_PPK_GPS_and_UAV_Based_Structure_from_Motion
+"SfM is also now widely available inopen source packages such as OpenDroneMap and AliceVision/Meshroom, and computationalSfM toolkits available for OpenCV and Matlab."
+
+**Photogrammetric_3D_Scanning_of_Physical_Objects_Tools_and_Workflow** 2019
+https://www.researchgate.net/publication/337001322_Photogrammetric_3D_Scanning_of_Physical_Objects_Tools_and_Workflow
+https://link.springer.com/chapter/10.1007%2F978-3-030-58465-8_28
+
+**Zahari et al. - Review of Unmanned Aerial Vehicle Photogrammetry for Aerial Mapping Applications**
+in ICCOEE2020: Proceedings of the 6th International Conference ...
+https://books.google.de/books?id=058REAAAQBAJ&pg=PA672&lpg=PA672
+Meshroom in list on p.672 but with strange citation (Douglass and Caraça Santos 2019)
+
+**Application of optical photogrammetry in radiation oncology: HDR surface mold brachytherapy** 2019
+Michael J J Douglass, Alexandre M Caraça Santos
+https://pubmed.ncbi.nlm.nih.gov/31230942/
+https://www.brachyjournal.com/article/S1538-4721(19)30095-9/fulltext
+limited access
+
+**Abstracting Stone Walls for Visualization and Analysis**
+Giovanni Gallo, Francesca Buscemi, Michele Ferro, Marianna Figuera, Paolo Marco Riela
+
+"Data Collection and 3D Reconstruction: The technique starts with a photographic survey of the wall fragment under study. 3D reconstruction may be done with off-the-shelf tools. In our experiments Meshroom from AliceVision has been used. A highly detailed model is obtained this way (average edge mesh in 0.2-0.8cm range)." (p.218 in Pattern Recognition. ICPR International Workshops and Challenges)
+
+https://link.springer.com/chapter/10.1007/978-3-030-68787-8_15
+
+**RGB-D Railway Platform Monitoring and Scene Understanding for Enhanced Passenger Safety**
+
+"Its ease-of-use  and  its  capability  to create  and  re-configure  a  large  number  of  algorithmic  pipelines  allowed  us  to define a broad set of configuration, detection, tracking, and evaluation components."
+
+https://arxiv.org/abs/2102.11730
+
+**Putative arthropod trace fossils from the Orcadian Basin at Achanarras Quarry (Middle Devonian of Scotland)**
+JT Flannery-Sutherland - Journal of the Geological Society, 2021 - jgs.lyellcollection.org
+"a set of 51 images used to generate a photogrammetric reconstruction using Meshroom (v2018.1.0)"
+https://pubs.geoscienceworld.org/jgs/article-abstract/doi/10.1144/jgs2020-233/595043
+restricted access
+
+**Metrological comparison of LiDAR and photogrammetric systems for deformation monitoring of aerospace parts**
+
+"No commercial photogrammetry software is available on the laboratory, so Meshroom free software is used to obtain three-dimensional reconstructions from a series of photographs"
+
+https://www.sciencedirect.com/science/article/abs/pii/S0263224121000695
+restricted access
+
+**Condition assessment of ship structure using robot assisted 3D-reconstruction**
+Faisal Mehmood Shah, Tomaso Gaggero, Marco Gaiotti & Cesare Mario Rizzo
+
+"In this study, authors performed 3D reconstruction modelling by using the open-source photogrammetric software Meshroom by Alicevision"
+
+https://www.tandfonline.com/doi/abs/10.1080/09377255.2021.1872219
+restricted access
+
+**3D SURFACE RECONSTRUCTION FROM MULTI-DATE SATELLITE IMAGES**
+software overview and comparison 
+https://arxiv.org/abs/2102.02502
+
+**Review of Photogrammetry Techniques for 3D Scanning Tasks of Buildings**
+
+Reconstruction quality analysis and comparision of DFF Zephyr, Agisoft Metashape, Meshroom and Pix4D Mapper
+
+"The second in quality is Meshroom, which also raised all four walls. "
+https://www.fruct.org/publications/acm28/files/Kov.pdf
+
+**3D reconstruction using Structure From Motion (SFM) algorithm and Multi View Stereo (MVS) based on computer vision**
+"The photos obtained were reconstructed into a 3D model using the Structure From Motion algorithm in the meshroom"
+https://iopscience.iop.org/article/10.1088/1757-899X/1073/1/012066/meta
+
+**CNC WOOD MACHINES ACCURACY AND REPEATABILITY**
+use case
+http://www.fdtme.ukim.edu.mk/en/wood_journal/archive/vol_9_no1/vol_9_no1_fulltext_1.pdf
