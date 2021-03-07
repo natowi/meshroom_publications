@@ -410,7 +410,7 @@ https://www.insticc.org/node/TechnicalProgram/simultech/2020/presentationDetails
 **Meshroom used in cinematic productions**
 
 - See You Up There, Directed by Albert Dupontel, Production of ADCB Films, Manchester Films (300 pictures from drone shooting, Parisian shooting set extended with Moroccan village.)
-- Santa & Cie, Directed by Alain Chabat, Gaumont Distribution (survey of the shooting set, can be seen here in the background https://youtu.be/Xfnzr0ee3D4?t=143)
+- Santa & Cie, Directed by Alain Chabat, Gaumont Distribution (survey of the shooting set, can be seen here in the background https://youtu.be/Xfnzr0ee3D4?t=143, Movie: 0:39:00 / 0:57:00 / 1:04:00 / 1:31:10?)
 - Animation feature films “Sherlock Gnomes” dir. John Stevenson, MGM/Paramount Pictures/Rocket Pictures
 (80 pictures with DSLR, Chinese District in London reference, used as reference for modelling of the chinese style gate at the beginning of the Chinatown scene)
 
