@@ -710,3 +710,6 @@ https://iopscience.iop.org/article/10.1088/1757-899X/1073/1/012066/meta
 **CNC WOOD MACHINES ACCURACY AND REPEATABILITY**
 use case
 http://www.fdtme.ukim.edu.mk/en/wood_journal/archive/vol_9_no1/vol_9_no1_fulltext_1.pdf
+
+**Photogrammetry For GameDev (Meshroom vs Metashape vs RealityCapture)**
+https://www.youtube.com/watch?v=Kp9psroWGE8
