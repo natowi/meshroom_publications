@@ -713,3 +713,6 @@ http://www.fdtme.ukim.edu.mk/en/wood_journal/archive/vol_9_no1/vol_9_no1_fulltex
 
 **Photogrammetry For GameDev (Meshroom vs Metashape vs RealityCapture)**
 https://www.youtube.com/watch?v=Kp9psroWGE8
+
+**Waste-free Processing of a Mammoth Tusk of Various Sorts by 3DTechnologies and Polymer Material Science**
+https://iopscience.iop.org/article/10.1088/1757-899X/1079/4/042029/pdf
