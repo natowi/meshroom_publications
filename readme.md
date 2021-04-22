@@ -716,3 +716,18 @@ https://www.youtube.com/watch?v=Kp9psroWGE8
 
 **Waste-free Processing of a Mammoth Tusk of Various Sorts by 3DTechnologies and Polymer Material Science**
 https://iopscience.iop.org/article/10.1088/1757-899X/1079/4/042029/pdf
+
+**tesla-product-literature/gpu-applications-catalog**
+https://images.nvidia.com/aem-dam/Solutions/Data-Center/tesla-product-literature/gpu-applications-catalog.pdf
+
+**A case study in online teaching of Augmented Reality technology**
+http://papers.cumincad.org/data/works/att/caadria2021_301.pdf
+
+**A Comparative Analysis of Different Software Packages for 3D Modelling of Complex Geometries**
+https://link.springer.com/chapter/10.1007%2F978-3-030-73043-7_19 [RESTRICTED ACCESS]
+
+**scAnt—an open-source platform for thecreation of 3D models of arthropods(and other small objects)**
+https://peerj.com/articles/11155.pdf
+
+**3D SURFACE RECONSTRUCTION FROM MULTI-DATE SATELLITE IMAGES**
+https://arxiv.org/pdf/2102.02502.pdf
