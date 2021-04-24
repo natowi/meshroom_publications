@@ -731,3 +731,15 @@ https://peerj.com/articles/11155.pdf
 
 **3D SURFACE RECONSTRUCTION FROM MULTI-DATE SATELLITE IMAGES**
 https://arxiv.org/pdf/2102.02502.pdf
+
+**Entwicklung und Analyse eines Workflows zur realit ̈atsnahenModellierung animierter Personen in virtuellen Welten**
+https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/12005/file/BA_MickyTuan_An_Nguyen.pdf
+
+**Photogrammetrie #2: Anwendung in der Kunstvermittlung (ART4.0; Digital4Humanities)**
+https://www.youtube.com/watch?v=mT7SRPpBRos
+https://f-origin.hypotheses.org/wp-content/blogs.dir/9020/files/2021/01/Ankuendigung-vDHd21-Blog4_1.pdf
+
+**Photogrammetrische Vermessung  eines historischen Motorblocks**
+https://digibib.hs-nb.de/file/dbhsnb_thesis_0000002523/dbhsnb_derivate_0000003144/Bachelorarbeit-Trampisch-2020.pdf
+
+http://digitalair.com/pdfs/DigitalAir_Epic_Megagrant_Deck_NB.pdf
