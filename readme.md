@@ -743,3 +743,6 @@ https://f-origin.hypotheses.org/wp-content/blogs.dir/9020/files/2021/01/Ankuendi
 https://digibib.hs-nb.de/file/dbhsnb_thesis_0000002523/dbhsnb_derivate_0000003144/Bachelorarbeit-Trampisch-2020.pdf
 
 http://digitalair.com/pdfs/DigitalAir_Epic_Megagrant_Deck_NB.pdf
+
+Medical application, Meshroom results presented at congres in Spain
+https://plataforma.congresosefmsepr.es/event/4/contributions/2127/contribution.pdf
