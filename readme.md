@@ -744,5 +744,5 @@ https://digibib.hs-nb.de/file/dbhsnb_thesis_0000002523/dbhsnb_derivate_000000314
 
 http://digitalair.com/pdfs/DigitalAir_Epic_Megagrant_Deck_NB.pdf
 
-Medical application, Meshroom results presented at congres in Spain
+Medical application, Meshroom results presented at congress in Spain
 https://plataforma.congresosefmsepr.es/event/4/contributions/2127/contribution.pdf
