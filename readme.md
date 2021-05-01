@@ -761,3 +761,8 @@ https://fmx.de/en/program/detail/event/21216
 
 **Eurographics 2021 Part I – Capturing Volumetric Video with Open-Source Tools**
 https://conferences.eg.org/eg2021/program/tutorials/
+
+**Open Source Days 2020: Meshroom: An Open Source 3D Reconstruction Software**
+https://www.youtube.com/watch?v=oa_FofFYiYo&list=PL9dZxafYCWmymPRDiI3Qr4ygc9daVy6Nz&index=9
+
+
