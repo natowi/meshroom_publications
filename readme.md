@@ -742,7 +742,11 @@ https://f-origin.hypotheses.org/wp-content/blogs.dir/9020/files/2021/01/Ankuendi
 **Photogrammetrische Vermessung  eines historischen Motorblocks**
 https://digibib.hs-nb.de/file/dbhsnb_thesis_0000002523/dbhsnb_derivate_0000003144/Bachelorarbeit-Trampisch-2020.pdf
 
+Digitalair utilizes Meshroom
 http://digitalair.com/pdfs/DigitalAir_Epic_Megagrant_Deck_NB.pdf
 
 Medical application, Meshroom results presented at congress in Spain
 https://plataforma.congresosefmsepr.es/event/4/contributions/2127/contribution.pdf
+
+Meshroom mentioned in Unity workflow
+https://bytes.usc.edu/cs580/s21_cgMlArVr3D/extras/pdfs/UnityPhotogramm.pdf
