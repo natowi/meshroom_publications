@@ -750,3 +750,14 @@ https://plataforma.congresosefmsepr.es/event/4/contributions/2127/contribution.p
 
 Meshroom mentioned in Unity workflow
 https://bytes.usc.edu/cs580/s21_cgMlArVr3D/extras/pdfs/UnityPhotogramm.pdf
+
+https://twitter.com/AliceVision_Org
+
+https://www.youtube.com/watch?v=XlFkQxIejtg
+https://www.youtube.com/watch?v=7aWc_SKA9xI
+
+**FMX2021 3D Reconstruction and Panorama Stitching in Meshroom**
+https://fmx.de/en/program/detail/event/21216
+
+**Eurographics 2021 Part I – Capturing Volumetric Video with Open-Source Tools**
+https://conferences.eg.org/eg2021/program/tutorials/
