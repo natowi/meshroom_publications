@@ -19,17 +19,17 @@ EN,Thesis,Photogrammetry for 3D Reconstruction in SOLIDWORKS and its Application
 CN,Thesis,基于sfm算法的三维重建软件集成 ,Tao Wang ,2020,,InstantMeshes and DracoEncoder/Decoder plugins for Meshroom @TigerVsT ,,not public
 EN,Thesis,Microstructures and Deformation Mechanisms of Ballistic Impacts in Stone ,Oliver Campbell ,2020,,"PhD thesis, utilizing Meshroom",Cultural Heritage,https://www.heritageinthecrossfire.com/ not published yet
 EN,poster,Morphological Mapping of 13 August 2017 Kotropi Landslide using Images and Videos from Drone and Structure from Motion ,Indian Institute of Technology Mandi,2017,,"Drone Mapping, Earth Science, Landslide  Short Mentioning, usage example",Earth Science,https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/529652 
-FR,,Les recommandations du Consortium 3D SHS ,,,,Software comparison list,,https://hal.archives-ouvertes.fr/hal-01683842/file/Les%20recommandations%20du%20consortium%203D%20SHS.pdf 
-EN,,An Interactive Physically-based Model for ActiveSuction Phenomenon Simulation ,,,,Meshroom used for 3d reconstruction of object used for physical modelling,Robotics,https://hal.inria.fr/hal-02419381/document 
-EN,,Perspective-consistent multifocus multiview 3D reconstruction of small objects ,,,,"short mentioning, usage example",,https://arxiv.org/pdf/1912.03005.pdf 
-EN,,Low-Cost Technological Implementations Related To Integrated Application Experiments,,,,,,https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/241/2019/isprs-archives-XLII-2-W17-241-2019.pdf  https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/331/2019/isprs-archives-XLII-2-W17-331-2019.  
-EN,poster,Digital Humanities im Museum 4.0 ,,,,"short mentioning, usage example",,https://informatik.hs-bremerhaven.de/dh2018/pdf/Pr%C3%A4sentation.pdf  https://informatik.hs-bremerhaven.de/dh2018/pdf/Poster_2_Erstellung.pdf
-EN,presentation,POPART/LADIO Popsift,,,,,,https://www.uio.no/studier/emner/matnat/ifi/IN5050/v19/undervisningsmateriale/in5050-popsift.pdf
-IT,Thesis,Utilizzo di asset 3D per la produzione videonel campo del cultural heritageDal reperto alla divulgazione scientifica ,,,,,,https://webthesis.biblio.polito.it/13119/1/tesi.pdf 
-EN,report,Full Pipeline Evaluation including the “Tanks and Temples” evaluation benchmark read D5.4: Deliver 3D reconstruction benchmarks with dataset ,,,,,,https://cordis.europa.eu/project/rcn/205980/results/en 
-EN,paper,Comparison-of-Algorithms-for-3D-Reconstruction-Masson-Petry,,,,comparison,,https://www.semanticscholar.org/paper/Comparison-of-Algorithms-for-3D-Reconstruction-Masson-Petry/7715caf69845973e1113de47030e26c93f941f56 
-EN,paper,Application of ‘Structure from Motion’ (SfM) technique in physical hydraulic modelling,,,,comparison,,https://iopscience.iop.org/article/10.1088/1742-6596/1266/1/012008/pdf 
-EN,paper,IMAGE-BASED 3D SURFACE RECONSTRUCTION OF COLD-FORMED STEEL CSECTIONS,Burcu Güldür Erkal,,,,,ec-3.org/conf2019/contribution_181_final/ 
+FR,paper,Les recommandations du Consortium 3D SHS ,"Xavier Granier, Mehdi Chayani, Violette Abergel, Pascal Benistant, LaurentBergerot, Hervé Bohbot, Serge Cassen, Livio de Luca, Bruno Dutailly,Fréderic Epaud, et al. ",2019,,Software comparison list,comparisson,https://hal.archives-ouvertes.fr/hal-01683842/file/Les%20recommandations%20du%20consortium%203D%20SHS.pdf 
+EN,paper,An Interactive Physically-based Model for ActiveSuction Phenomenon Simulation ,"Antonin Bernardin, Christian Duriez, Maud Marchal ",2019,,Meshroom used for 3d reconstruction of object used for physical modelling,Robotics,https://hal.inria.fr/hal-02419381/document 
+EN,paper,Perspective-consistent multifocus multiview 3D reconstruction of small objects ,"Hengjia Li, Chuong Nguyen",2019,,"short mentioning, usage example",Multifocus Capture ,https://arxiv.org/pdf/1912.03005.pdf 
+EN,paper,Low-Cost Technological Implementations Related To Integrated Application Experiments,"C. Palestini, A. Basso",2019,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XLII-2/W17, 2019 6th International Workshop LowCost 3D – Sensors, Algorithms, Applications, 2–3 December 2019, Strasbourg, Franc",review with good summary of the project history,"Virtual Survey, Low Cost, Photogrammetry, 3d model, Heritage Interpretation",https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/241/2019/isprs-archives-XLII-2-W17-241-2019.pdf  https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/331/2019/isprs-archives-XLII-2-W17-331-2019.  
+EN,poster,Digital Humanities im Museum 4.0 ,,2018,,"short mentioning, usage example",,https://informatik.hs-bremerhaven.de/dh2018/pdf/Pr%C3%A4sentation.pdf  https://informatik.hs-bremerhaven.de/dh2018/pdf/Poster_2_Erstellung.pdf
+EN,presentation,POPART/LADIO Popsift,Carsten Griwodz ,2019,,details on popsift ,,https://www.uio.no/studier/emner/matnat/ifi/IN5050/v19/undervisningsmateriale/in5050-popsift.pdf
+IT,Thesis,Utilizzo di asset 3D per la produzione videonel campo del cultural heritageDal reperto alla divulgazione scientifica ,Plicato Emanuele ,2019,,simple use case,,https://webthesis.biblio.polito.it/13119/1/tesi.pdf 
+EN,report,Full Pipeline Evaluation including the “Tanks and Temples” evaluation benchmark read D5.4: Deliver 3D reconstruction benchmarks with dataset ,,2018,,official report of the Meshroom project H2020,official report,https://cordis.europa.eu/project/rcn/205980/results/en 
+EN,paper,Comparison-of-Algorithms-for-3D-Reconstruction-Masson-Petry,"J. E. N. Masson, M. Petry",2019,,comparison,comparison,https://www.semanticscholar.org/paper/Comparison-of-Algorithms-for-3D-Reconstruction-Masson-Petry/7715caf69845973e1113de47030e26c93f941f56 
+EN,paper,Application of ‘Structure from Motion’ (SfM) technique in physical hydraulic modelling,Sanat Kumar Karmacharya et al ,2019,Journal of Physics: Conference Series,comparison,comparison,https://iopscience.iop.org/article/10.1088/1742-6596/1266/1/012008/pdf 
+EN,paper,IMAGE-BASED 3D SURFACE RECONSTRUCTION OF COLD-FORMED STEEL CSECTIONS,Burcu Güldür Erkal,2019,"2019 European Conference on Computing inConstructionChania, Crete, Greece ",Application,"engineering, material sciences",ec-3.org/conf2019/contribution_181_final/ 
 EN,paper,Dinosaur tracks and crocodilian remains,"JESPER MILÀN, PETER L. FALKINGHAM & INKEN JULIANE MUELLER-TÖWE ",2020,BULLETIN OF THE GEOLOGICAL SOCIETY OF DENMARK · VOL. 68 · 2020 ,"Small ornithopod dinosaur tracks and crocodilian remains from the Middle Jurassic Bagå Formation, Born-holm, Denmark. (...) tracks were digitized via photogrammetry, using photos taken with a 16mp FujiFilm FinePix XP80, and processed using AliceVision Meshroom",paleontology,https://2dgf.dk/xpdf/bull68-245-253.pdf 
 EN,paper,RGB-D Railway Platform Monitoring and SceneUnderstanding for Enhanced Passenger Safety,"Marco Wallner, Daniel Steininger, Verena Widhalm, Matthias Schörghuber, and Csaba Beleznai",2021,Austrian Institute of Technology ,We exploit the modular concepts of Meshroom and demonstrate its use as a generic vision processing pipeline and scalable evaluation framework,"engineering, public transport, maintanance",https://arxiv.org/pdf/2102.11730.pdf
 EN,paper,Sensor Evaluation For Crack Detection In Concrete Bridges,"Dominik Merkle, Annette Schmitt, Alexander Reiterer",2020,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XLIII-B2-2020, 2020  Department of Sustainable Systems Engineering INATECH, University of Freiburg, 79110 Freiburg, Germany, Fraunhofer Institute for Physical Measurement Techniques IPM, 79110 Freiburg, Germany ","To determine and output the camera poses as illustrated (...), the authors used the freeware Meshroom","engineering, public transport, maintanance",https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2020/1107/2020/isprs-archives-XLIII-B2-2020-1107-2020.pdf
@@ -56,3 +56,160 @@ EN,blog,Behind the Scenes: 3D Castle Set Extension, Abby Crawford,2019,blenderna
 EN,video,3D Photoscanning - Optimizing Meshroom Photoscans, TylerGibbonsArt,2020,Youtube,„In this video we walk through some easy ways to simplify and improve our photoscans from Meshroom.“,tutorial,https://www.youtube.com/watch?v=J3esNV0wXAo
 EN,blog,Photogrammetry with your phone,Glenn Horan,2020,hackspace.raspberrypi.org,Simple Meshroom tutorial,tutorial,https://hackspace.raspberrypi.org/articles/photogrammetry-with-your-phone
 EN,blog,6 Best Photogrammetry Software Programs in 2019,Joseph Flynt ,2019,3dinsider,Short review,review,https://3dinsider.com/photogrammetry-software/
+EN,,,,,,,,https://blenderartists.org/t/meshroom-free-photogrammetry/
+EN,video,Experiments with Meshroom / AliceVision: Galway Cathedral,,,,,,https://www.youtube.com/watch?v=u6HjcqaBZG8
+EN,,,,,,,,https://www.clir.org/wp-content/uploads/sites/6/2019/02/Pub-176.pdf
+EN,paper,Implementing Augmented Reality at the Imperial War Museum,,,,,"Augmented Reality; Vuforia, Unity, Blender, Meshroom ",https://daniel.regentsit.co.uk/novel2.pdf 
+EN,,ENHANCING HERITAGE FRUITION THROUGH 3D VIRTUAL MODELS AND AUGMENTED REALITY: AN APPLICATION TOROMAN ARTEFACTS,,,,,,https://riunet.upv.es/bitstream/handle/10251/124734/11918-48089-5-PB.pdf?sequence=4&isAllowed=y
+FR,,SYNTHÈSE DES OUTILS ET DES TECHNOLOGIES 3D,,,,,,https://hal.archives-ouvertes.fr/hal-02159453/document
+EN,,Application of ‘Structure from Motion’ (SfM) technique in physical hydraulic modelling,,,,,,https://iopscience.iop.org/article/10.1088/1742-6596/1266/1/012008/pdf
+EN,,Digital Humanitiesim Museum 4.0,,,,,,https://informatik.hs-bremerhaven.de/dh2018/pdf/Poster_2_Erstellung.pdf https://informatik.hs-bremerhaven.de/dh2018/pdf/Pr%C3%A4sentation.pdf
+FR,,,,,,,,https://landscape.aswf.io/selected=meshroom
+EN,,,,,,,,https://www.esma-artistique.com/meshroom-un-outil-de-photogrammetrie/
+EN,,,,,,,,https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/
+JP,,,,,,,,https://styly.cc/ja/tips/photogrammetry_summary/#Meshroom
+JP,,,,,,,,http://klabgames.creative.blog.jp.klab.com/archives/22286129.html
+JP,,,,,,,,https://www.slideshare.net/ryokurauchi10/photogrammetry-on-cloud
+JP,,HoudiniとMeshroomでカメラトラッキングする方法 ,,,,,,https://note.com/yohawing/n/n6607b9136c70
+JP,,,,,,,,https://qiita.com/kotauchisunsun/items/9e3444faec734ddedcb5
+JP,,,,,,p.28,,https://www.nuhw.ac.jp/gakkai/20191018_1.pdf
+EN,Thesis,Creating a 3D model of the church,Michal Novotný,,,,,https://dspace.cvut.cz/handle/10467/83544
+EN,Thesis,Structure from Motion applied to movable bed scale models,Ujjwal Shrestha,2019,,,,https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2630147/no.ntnu%3Ainspera%3A43469946%3A25755829.pdf?sequence=1&isAllowed=y
+EN,,Forensic applications of 3d scanning,Jimmy Tang,2019,,p.74,,https://old.taltech.ee/public/k/kyberkriminalistika_ja_kyberjulgeoleku_keskus/proceeding.pdf 
+EN,,Toolchain Development for Automated Scene Reconstruction using Artificial Neural Network Object Detection and Photogrammetry for the Application in Driving Simulators ,,,,,,https://www.insticc.org/node/TechnicalProgram/simultech/2020/presentationDetails/95905
+EN,,,,,,,,https://www.blenderdiplom.com/en/interviews/717-interview-alicevision-s-photogrammetry-solution-meshroom.html
+EN,Reference,See You Up There,,,,"Directed by Albert Dupontel, Production of ADCB Films, Manchester Films (300 pictures from drone shooting, Parisian shooting set extended with Moroccan village.) ","Cinematic production, Reference",https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/ https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bd51f568&appId=PPGMS
+EN,Reference,Santa & Cie,,,,"Directed by Alain Chabat, Gaumont Distribution (survey of the shooting set, can be seen here in the background https://youtu.be/Xfnzr0ee3D4?t=143, Movie: 0:39:00 / 0:57:00 / 1:04:00 / 1:31:10?) ","Cinematic production, Reference",https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/ https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bd51f568&appId=PPGMS
+EN,Reference,Sherlock Gnomes,,,,"dir. John Stevenson, MGM/Paramount Pictures/Rocket Pictures (80 pictures with DSLR, Chinese District in London reference, used as reference for modelling of the chinese style gate at the beginning of the Chinatown scene) ","Cinematic production, Reference",https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/ https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bd51f568&appId=PPGMS
+EN,Reference,"""BNP"" Commercial (Mikros)",,,Academy Software Foundation ,,"Cinematic production, Reference",https://youtu.be/oa_FofFYiYo?t=275
+EN,Reference,"The Returned, Canal+",,,,,"Cinematic production, Reference",https://youtu.be/oa_FofFYiYo?t=275 https://wiki-fx.net/project/the-returned/
+EN,Reference,La Vida en un Baile,,,,Documental de Blanca Rey (Low Budget production),"Cinematic production, Reference",https://www.youtube.com/watch?v=MqDMGgcR5Y4
+EN,Reference,"""Linda la Cumbia"" - La Yegros",Al3ph,2019,Youtube,,"Cinematic production, Reference",https://www.youtube.com/watch?v=4ThKJjPho0o (22.09.2019) / Making of: https://aletheiadesign.fr/linda-la-cumbia-la-yegros/ (3D Reconstruction of La Yegros)
+EN,Reference,3d asset creation,,,,www.wargaming.com uses Meshroom to reconstruct objects for 3d asset creation,"3d art, asset creation",https://groups.google.com/g/alicevision/c/LFg9on5j71k
+EN,Reference,forensic pathology,,,,,,https://groups.google.com/forum/#!topic/alicevision/hxq_7OS4t4Q
+EN,Reference,Arthropod scans,,,,used by http://evo-biomech.ic.ac.uk/ EvoBiomech to scan arthropods,,https://sketchfab.com/3d-models/orthomeria-versicolor-22b7a32ac85d43539038573d7a5d7a35
+EN,video,Create 360 degree HDRI panorama,,,,,,https://www.youtube.com/watch?v=iufXTCPln_Q
+,,,,,,,,https://www.pcactive.nl/update/5704-update-3d-scannen-met-fotogrammetrie
+EN,,,,,,,,https://www.gamearter.com/blog/meshroom-3d-scanning-with-photogrammetry
+EN,,,,,,,,https://www.researchgate.net/publication/334682161_Enhancing_heritage_fruition_through_3D_virtual_models_and_augmented_reality_an_application_to_roman_artefacts
+EN,video,Meshroom: An Open Source 3D Reconstruction Software,,2020,Academy Software Foundation ,,,https://www.youtube.com/watch?v=oa_FofFYiYo 
+IT,,,,,,,,https://webthesis.biblio.polito.it/13119/1/tesi.pdf
+EN,,,,,,,,https://ec-3.org/conf2019/wp-content/uploads/sites/2/2019/10/Final_Complete_Proceedings_V8.pdf
+EN,,,,,,,,https://hal.archives-ouvertes.fr/hal-01683842v4/document
+EN,,,,,,,,http://gtg.webhost.uoradea.ro/PDF/GTG-3-2020/gtg.31323-546.pdf
+EN,,,,,,use case,,http://www.gistam.org/Documents/Previous_Invited_Speakers/2020/GISTAM_2020_KS_2_Presentation.pdf
+ES,,,,,,,,https://eprints.ucm.es/60840/1/Fotogrametria_Apuntes_para_una_introduccion_practica_Dario_Lanza.pdf
+EN,,,,,,,,https://o-date.github.io/draft/book/odate.pdf
+EN,,,,,,,,https://riunet.upv.es/bitstream/handle/10251/150763/Valencia%20-%20Dise%C3%B1o%20de%20un%20producto%20industrial%20mediante%20t%C3%A9cnicas%20de%20impresi%C3%B3n%203D%20y%20nuevos%20materiales.pdf
+RU,,,,,,,,https://bi.hse.ru/data/2020/07/10/1595002075/metodika_photogrammetry.pdf
+EN,,,,,,,,https://hal.archives-ouvertes.fr/hal-02961031/document
+EN,,,,,,,,https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B1-2020/243/2020/isprs-archives-XLIII-B1-2020-243-2020.pdf
+EN,,,,,,,,https://arxiv.org/pdf/1912.03005.pdf
+EN,,,,,,,,https://www.biorxiv.org/content/10.1101/2019.12.16.878033v1.full.pdf
+EN,,,,2019,,,,ftp://ftp.gouv.nc/sig/PUBLIC/GISDAY_2019/GIS_DAY_2019_Atelier2_Model_3D_PierreLoup_Ducroix.pdf
+EN,,,,,,,,https://repository.tudelft.nl/islandora/object/uuid:d0aea6ed-0937-4ae4-8678-b88bb42ffce6/datastream/OBJ2/download
+EN,,,,,,,,https://doi.org/10.37705/TechTrans/e2020021
+KR,,,,,,BIM use case,,https://gaia3d.com/wp-content/uploads/2020/10/%EB%B0%B0%ED%8F%AC%EC%9A%A9_%ED%99%A9%EC%83%81%ED%9B%8820201009_EANTECHNOLOGY_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_-_%EB%94%94%EC%A7%80%ED%84%B8_%ED%8A%B8%EC%9C%88%EC%9D%98_%EC%9E%91%EC%84%B1%EA%B3%BC_BIM%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%ED%99%98%EA%B2%BD%EB%B6%84%EC%84%9D%EA%B8%B0%EC%88%A0_%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf 
+EN,,,,,,,,https://doi.org/10.37705/TechTrans/e2020021
+EN,,,,,,simple use case,,https://www.gamedesigning.org/learn/meshroom-tutorial/ 
+EN,,,,,,,,https://www.researchgate.net/publication/343520729_A_MODULAR_MOBILE_MAPPING_PLATFORM_FOR_COMPLEX_INDOOR_AND_OUTDOOR_ENVIRONMENTS
+EN,,,,,,Datasets of captured images of three different devices for photogrammetry calculation comparison and integration into a laserscan point cloud of a built environment,,https://doi.org/10.1016/j.dib.2020.106321
+EN,,,,,,use case,,https://www.foxrenderfarm.com/kr/news/how-to-create-a-cg-scene-in-norman-rockwell-style-in-blender/ 
+EN,,Digitising Haswell specimens,,,,,,https://haswellmuseum.wordpress.com/2020/09/29/digitising-haswell-specimens-using-photogrammetry/
+EN,video,Open Source Digital Heritage - Meshroom (Photogrammetry),,,,,,https://www.youtube.com/watch?v=ISAKM6sVtwA
+,,,,,,,,https://alexfiel.com/atlas-virtual-graduation
+,,,,,,,,https://medium.com/process-blog-sounak-ghosh/time-capsule-part-1-d8bc3b99017f
+,,,,,,,,https://exyte.com/blog/a-scanning-dream-using-a-camera
+,,"Muligheter med åpne løsninger for håndtering av feltdata Kay Henning Kleverud, Sør-Odal kommune",,,,,,https://foss4g.no/ 
+,paper,A Comparative Analysis of Different Software Packages for 3D Modelling of Complex Geometries,Styliani Verykokouet al. ,2020,,,,https://www.cut.ac.cy/euromed2020proceedings/pdf/Euromed2020_BOOKLET.pdf
+,,"OPEN-SOURCE IMAGE-BASED 3D RECONSTRUCTION PIPELINES: REVIEW, COMPARISON AND EVALUATION",,,,has some flaws,,https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W17/331/2019/isprs-archives-XLII-2-W17-331-2019.pdf 
+,,,,,,,,https://wuiview.org/download/WUIVIEW_D5.2_F.pdf
+,,,,,,,,https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2020/1107/2020/isprs-archives-XLIII-B2-2020-1107-2020.pdf
+,,,,,,,,https://zir.nsk.hr/islandora/object/fpz%3A2217/datastream/PDF/view
+,,,,,,,,https://hal.archives-ouvertes.fr/hal-02964852/document
+,,,,,,,,https://webthesis.biblio.polito.it/15819/1/tesi.pdf
+,,,,,,,,https://content.sciendo.com/downloadpdf/journals/techtrans/117/1/article-20200021.xml
+,,,,,,,,casopisi.junis.ni.ac.rs/index.php/FUElectEnerg/article/download/5746/3622
+,,,,,,,,https://www.mdpi.com/2072-4292/12/16/2583/pdf
+,,,,,,,,https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00071501/IFToMM_D-A-CH_2020.pdf
+,,,,,,,,https://epublications.uef.fi/pub/urn_nbn_fi_uef-20201434/urn_nbn_fi_uef-20201434.pdf
+,,,,,,,,https://epub.ub.uni-muenchen.de/71976/1/Weil_RaisingAwarenessForEndangeredSpeciesUsingAR.pdf
+,,,,,,,,https://openaccess.thecvf.com/content_CVPR_2020/papers/Polic_Uncertainty_Based_Camera_Model_Selection_CVPR_2020_paper.pdf
+,,,,,,,,https://hal.inria.fr/hal-02280281v2/document
+,,A QoE Evaluation of an ImmersiveVirtual Reality Autonomous Driving Experience,,,,,,https://research.thea.ie/bitstream/handle/20.500.12065/3341/A%20QoE%20evaluation%20of%20an%20immersive%20virtual%20reality%20....pdf?sequence=1&isAllowed=y
+,,,,,,,,https://www.geoarpad.eu/sites/w_geoarp/files/piloto_1._appturistica_especifica_con_los_recursos_mas_relevantes_de_galicia_y_el_norte_de_p.pdf
+,,,,,,,,https://bia.unibz.it/discovery/fulldisplay/alma991005772911101241/39UBZ_INST:ResearchRepository
+,,,,,,History of Meshroom 2018,,https://www.youtube.com/watch?v=CxKzHJEff4w 
+,,,,,,,,https://www.simonplanzer.com/articles/meshroom/
+,,,,,,,,https://shemesh.larc.nasa.gov/people/cam/publications/DASC2020-MGGMBMD-draft.pdf
+,,,,,,,,https://www.researchgate.net/profile/Luca_Bezzi/publication/340298038_Seconda_esplorazione_speleoarcheologica_del_Bus_dela_Spia/links/5e830993a6fdcca789e21323/Seconda-esplorazione-speleoarcheologica-del-Bus-dela-Spia.pdf
+,,,,,,,,https://riull.ull.es/xmlui/bitstream/handle/915/21309/Propuesta%20para%20la%20reintegracion%20en%20obras%20escultoricas%20y%20pictoricas..pdf?sequence=1
+,,,,,,,,https://aaltodoc.aalto.fi/handle/123456789/43819
+,,,,,,short mentioning,,http://scielo.senescyt.gob.ec/pdf/estoa/v9n18/1390-9274-estoa-9-18-00164.pdf
+,,,,,,short mentioning,,http://anthropology.ucsd.edu/_files/Borrero%20and%20Stroth%202020.pdf
+,,,,,,,,https://unswcode.org/wp-content/uploads/2020/01/1224248864-2251443_Nicholas_Lucchese_SUBSTANCE_WITHOUT_FORM_WORK__Nicholas_Lucchese_2561293_139869028.pdf
+,,Fusion d'approches photométriques et géométriques pour la création de modèles 3D,"Jean Mélou; Advisor: Jean-Denis Durou, Yvain Quéau, Fabien Castan",,,,,https://www.researchgate.net/publication/344327446_Fusion_d%27approches_photometriques_et_geometriques_pour_la_creation_de_modeles_3D
+,,,,,,,,https://www.sciencedirect.com/science/article/abs/pii/S1364032120302707
+,,,,,,,,https://www.raywenderlich.com/9559662-using-meshroom-to-insert-real-life-objects-in-unity
+,,,,,,,,https://www.youtube.com/watch?v=PMk6H0nh5-Y
+,,,,,,,,https://www.youtube.com/watch?v=d4FGrVh5ZrI
+,,,,,,,,https://arxiv.org/pdf/2012.01044.pdf
+IT,,GeoTec: Sistema de reconstrução 3D baseado em imagem para cenários GPSdenied,PAULO MIGUEL DA CUNHA RODRIGUES,,,,,https://recipp.ipp.pt/bitstream/10400.22/15717/1/DM_PauloRodrigues_2020_MEEC.pdf
+,,,,,,"Exploring data from an individual stranding of a Cuvier's beaked whale in the Gulf of Taranto (Northern Ionian Sea, Central-eastern Mediterranean Sea)",,https://www.sciencedirect.com/science/article/pii/S0022098120302380
+,,,,,,,,https://iopscience.iop.org/article/10.1088/1755-1315/609/1/012068/pdf
+,,,,,,,,https://www.researchgate.net/publication/347079712_Devices_and_Methods_for_Rapid_3D_Photo-Capture_and_Photogrammetry_of_Small_Reptiles_and_Amphibians_in_the_Laboratory_and_the_Field
+,,,,,,"http://digitallife3d.org/gear ""we also use various other software packages, such as Houdini, Meshroom, Capturing Reality, and others""",,https://www.researchgate.net/publication/331985178_Using_3D_Photogrammetry_to_Create_Open-Access_Models_of_Live_Animals_2D_and_3D_Software_Solutions
+,,,,,,,,https://www.raywenderlich.com/9559662-using-meshroom-to-insert-real-life-objects-in-unity
+,,,,,,marketing video use case,use case,https://pushcreativity.co.uk/3d-christmas-lincoln
+,,,,,,,use case,https://www.researchgate.net/publication/345780914_Creation_of_accurate_3D_models_of_harbor_porpoises_Phocoena_phocoena_using_3D_photogrammetry
+,,,,,,,use case,https://www.esaine.com/proyectos/fotogrametria-de-un-monumento-publico
+,,,,,,"""the RMSE of these two open-source software packages, i.e., ColMap and AliceVision, is larger than that of Metashape and Pix4Dmapper. However, they achieve a better performance when compared with RealityCapture.""",,https://www.sciencedirect.com/science/article/abs/pii/S0924271620301131
+,,,,,,,,https://iopscience.iop.org/article/10.1088/1757-899X/1007/1/012026/pdf
+,,,,,,,,https://iopscience.iop.org/article/10.1088/1755-1315/609/1/012068/pdf
+,,,,,,,,https://arxiv.org/pdf/2012.11779.pdf
+,,,,,,,,https://www.blendernation.com/2021/01/13/behind-the-scenes-a-red-cabin/
+,Reference,For Those I Love - Birthday / The Pain,,,,Music video For Those I Love - Birthday / The Pain,"Cinematic production, Reference",https://www.youtube.com/watch?v=93yZZjGqk_s
+,,,,,,,,https://habr.com/ru/post/491742/
+,,,,,,,,https://fieldnotes.staging.nationalgeographic.org/expedition/michigandiver
+,,,,,,,,"https://www.appropedia.org/Create,_Share,_and_Save_Money_Using_Open-Source_Projects"
+,,,,,,,,https://formlabs.com/blog/photogrammetry-guide-and-software-comparison/#AliceVision%20Meshroom
+,,,,,,,,https://www.youtube.com/watch?v=Iy9KUAO3Oe0
+,,,,,,,,https://peterfalkingham.com/2021/03/02/meshroom-2021-1-0-whats-new-and-what-parameters-to-tweak/
+,,,,,,short mentioning,,https://betrieb-machen.de/nachgelesen-wie-digitalisierung-bei-der-fabrikplanung-unterstuetzt/ 
+,,,,,,,,https://www.springerprofessional.de/stereo-camera-simulation-in-blender/18929920
+,,,,,,,,https://iopscience.iop.org/article/10.1088/1757-899X/1073/1/012066/pdf
+,,,,,,,,https://theretiredengineer.wordpress.com/2021/02/21/more-droning/
+GER,,,,,,Meshroom is among the most used open source tool in archaeology,,https://boris.unibe.ch/150853/1/2020_Bildbasierte_3D_Dokumentation.pdf
+,,From Building Information Modelling to Mixed Reality,"Cecilia Bolognesi, Daniele Villa, Springer",2021,,"p.166, ""Agisoft Metashape and Meshroom are the photomodelling software used for the reconstruction of the point cloud and the mesh model that has returned the real environments surveyed to scale""",,https://link.springer.com/chapter/10.1007/978-3-030-49278-6_10
+,,A state-of-the-art review of automated extraction of rock mass discontinuity characteristics using three-dimensional surface models,,2021,,software list,,https://www.sciencedirect.com/science/article/pii/S1674775521000287
+,,Deriving Land and Water Surface Elevations in the Northeastern Yucatán Peninsula Using PPK GPS and UAV-Based Structure from Motion,,2021,,"short mentioning, ""SfM is also now widely available inopen source packages such as OpenDroneMap and AliceVision/Meshroom, and computationalSfM toolkits available for OpenCV and Matlab.""",,https://www.tandfonline.com/doi/abs/10.1080/23754931.2021.1871937 https://www.academia.edu/45071231/Deriving_Land_and_Water_Surface_Elevations_in_the_Northeastern_Yucat%C3%A1n_Peninsula_Using_PPK_GPS_and_UAV_Based_Structure_from_Motion
+,,Photogrammetric_3D_Scanning_of_Physical_Objects_Tools_and_Workflow,,2019,,,,https://www.researchgate.net/publication/337001322_Photogrammetric_3D_Scanning_of_Physical_Objects_Tools_and_Workflow https://link.springer.com/chapter/10.1007%2F978-3-030-58465-8_28
+,,Review of Unmanned Aerial Vehicle Photogrammetry for Aerial Mapping Applications,Zahari et al.,2020,ICCOEE2020,Meshroom in list on p.672 but with strange citation (Douglass and Caraça Santos 2019),,https://books.google.de/books?id=058REAAAQBAJ&pg=PA672&lpg=PA672
+,,Application of optical photogrammetry in radiation oncology: HDR surface mold brachytherapy,"Michael J J Douglass, Alexandre M Caraça Santos",2019,,limited access,,https://pubmed.ncbi.nlm.nih.gov/31230942/ https://www.brachyjournal.com/article/S1538-4721(19)30095-9/fulltext
+,,Abstracting Stone Walls for Visualization and Analysis,"Giovanni Gallo, Francesca Buscemi, Michele Ferro, Marianna Figuera, Paolo Marco Riela",,,"""Data Collection and 3D Reconstruction: The technique starts with a photographic survey of the wall fragment under study. 3D reconstruction may be done with off-the-shelf tools. In our experiments Meshroom from AliceVision has been used. A highly detailed model is obtained this way (average edge mesh in 0.2-0.8cm range)."" (p.218 in Pattern Recognition. ICPR International Workshops and Challenges)”",,https://link.springer.com/chapter/10.1007/978-3-030-68787-8_15
+,,RGB-D Railway Platform Monitoring and Scene Understanding for Enhanced Passenger Safety,,,,"""Its ease-of-use and its capability to create and re-configure a large number of algorithmic pipelines allowed us to define a broad set of configuration, detection, tracking, and evaluation components.""",,https://arxiv.org/abs/2102.11730
+,,Putative arthropod trace fossils from the Orcadian Basin at Achanarras Quarry (Middle Devonian of Scotland),JT Flannery-Sutherland,2021,"Journal of the Geological Society, 2021 - jgs.lyellcollection.org","""a set of 51 images used to generate a photogrammetric reconstruction using Meshroom (v2018.1.0)"" restricted access",,https://pubs.geoscienceworld.org/jgs/article-abstract/doi/10.1144/jgs2020-233/595043
+,,Metrological comparison of LiDAR and photogrammetric systems for deformation monitoring of aerospace parts,,,,"""No commercial photogrammetry software is available on the laboratory, so Meshroom free software is used to obtain three-dimensional reconstructions from a series of photographs"" restricted access",,https://www.sciencedirect.com/science/article/abs/pii/S0263224121000695
+,,Condition assessment of ship structure using robot assisted 3D-reconstruction,"Faisal Mehmood Shah, Tomaso Gaggero, Marco Gaiotti & Cesare Mario Rizzo",,,"""In this study, authors performed 3D reconstruction modelling by using the open-source photogrammetric software Meshroom by Alicevision"" restricted access",,https://www.tandfonline.com/doi/abs/10.1080/09377255.2021.1872219
+,,3D SURFACE RECONSTRUCTION FROM MULTI-DATE SATELLITE IMAGES,,,,software overview and comparison,,https://arxiv.org/abs/2102.02502
+,,Review of Photogrammetry Techniques for 3D Scanning Tasks of Buildings,,,,"Reconstruction quality analysis and comparison of DFF Zephyr, Agisoft Metashape, Meshroom and Pix4D Mapper ""The second in quality is Meshroom, which also raised all four walls. """,,https://www.fruct.org/publications/acm28/files/Kov.pdf
+,,3D reconstruction using Structure From Motion (SFM) algorithm and Multi View Stereo (MVS) based on computer vision,,,,"""The photos obtained were reconstructed into a 3D model using the Structure From Motion algorithm in the meshroom""",,https://iopscience.iop.org/article/10.1088/1757-899X/1073/1/012066/meta
+,,CNC WOOD MACHINES ACCURACY AND REPEATABILITY ,,,,use case,,http://www.fdtme.ukim.edu.mk/en/wood_journal/archive/vol_9_no1/vol_9_no1_fulltext_1.pdf
+,,Photogrammetry For GameDev (Meshroom vs Metashape vs RealityCapture) ,,,,,,https://www.youtube.com/watch?v=Kp9psroWGE8
+,,Waste-free Processing of a Mammoth Tusk of Various Sorts by 3DTechnologies and Polymer Material Science,,,,,,https://iopscience.iop.org/article/10.1088/1757-899X/1079/4/042029/pdf
+,,tesla-product-literature/gpu-applications-catalog,,,,,,https://images.nvidia.com/aem-dam/Solutions/Data-Center/tesla-product-literature/gpu-applications-catalog.pdf
+,,A case study in online teaching of Augmented Reality technology ,,,,,,http://papers.cumincad.org/data/works/att/caadria2021_301.pdf
+,,A Comparative Analysis of Different Software Packages for 3D Modelling of Complex Geometries,,,,restricted access,,https://link.springer.com/chapter/10.1007%2F978-3-030-73043-7_19
+,,scAnt—an open-source platform for thecreation of 3D models of arthropods(and other small objects),,,,,,https://peerj.com/articles/11155.pdf
+,,3D SURFACE RECONSTRUCTION FROM MULTI-DATE SATELLITE IMAGES ,,,,,,https://arxiv.org/pdf/2102.02502.pdf
+,,Entwicklung und Analyse eines Workflows zur realit ̈atsnahenModellierung animierter Personen in virtuellen Welten ,,,,,,https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/12005/file/BA_MickyTuan_An_Nguyen.pdf
+,,Photogrammetrie #2: Anwendung in der Kunstvermittlung (ART4.0; Digital4Humanities) ,,,,,,https://www.youtube.com/watch?v=mT7SRPpBRos https://f-origin.hypotheses.org/wp-content/blogs.dir/9020/files/2021/01/Ankuendigung-vDHd21-Blog4_1.pdf
+,,Photogrammetrische Vermessung eines historischen Motorblocks ,,,,,,https://digibib.hs-nb.de/file/dbhsnb_thesis_0000002523/dbhsnb_derivate_0000003144/Bachelorarbeit-Trampisch-2020.pdf
+,,Digitalair utilizes Meshroom,,,,,,http://digitalair.com/pdfs/DigitalAir_Epic_Megagrant_Deck_NB.pdf
+,,"Medical application, Meshroom results presented at congress in Spain",,,,,,https://plataforma.congresosefmsepr.es/event/4/contributions/2127/contribution.pdf
+,,,,,,Meshroom mentioned in Unity workflow,,https://bytes.usc.edu/cs580/s21_cgMlArVr3D/extras/pdfs/UnityPhotogramm.pdf
+,,,,,,,,https://twitter.com/AliceVision_Org
+,,,,,,,,https://www.youtube.com/watch?v=XlFkQxIejtg https://www.youtube.com/watch?v=7aWc_SKA9xI
+,,FMX2021 3D Reconstruction and Panorama Stitching in Meshroom,,,,,,https://fmx.de/en/program/detail/event/21216
+,,Eurographics 2021 Part I – Capturing Volumetric Video with Open-Source Tools ,,,,,,https://conferences.eg.org/eg2021/program/tutorials/
+,,Open Source Days 2020: Meshroom: An Open Source 3D Reconstruction Software ,,,,,,https://www.youtube.com/watch?v=oa_FofFYiYo&list=PL9dZxafYCWmymPRDiI3Qr4ygc9daVy6Nz&index=9
