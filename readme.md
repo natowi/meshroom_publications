@@ -805,3 +805,4 @@ http://fab.cba.mit.edu/classes/864.20/people/camron/microphotogrammetry/final.ht
 https://www.youtube.com/watch?v=rEmNMe9nQV0
 Digitizing the Past: My Time as a Digital Cultural Heritage Intern
 By Grace Robbins, Office of Digital Research and Scholarship Intern, Fall 2019 https://fsulib.com/tag/open-source/
+https://medium.com/@aj7amigo/build-your-3d-models-with-ease-19078b50dcc
