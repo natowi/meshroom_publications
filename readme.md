@@ -1,3 +1,4 @@
+Check out the csv file for a structured list
 
 # Text publications (book, paper, academic,...)
 
