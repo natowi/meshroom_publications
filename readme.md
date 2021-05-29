@@ -806,3 +806,8 @@ https://www.youtube.com/watch?v=rEmNMe9nQV0
 Digitizing the Past: My Time as a Digital Cultural Heritage Intern
 By Grace Robbins, Office of Digital Research and Scholarship Intern, Fall 2019 https://fsulib.com/tag/open-source/
 https://medium.com/@aj7amigo/build-your-3d-models-with-ease-19078b50dcc
+
+https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2755819/Sanat%20Kumar%20Karmacharya.pdf?sequence=1&isAllowed=y
+https://peerj.com/articles/11179.pdf
+https://arxiv.org/pdf/2105.07644.pdf
+https://www.researchgate.net/publication/337644843_OPEN-SOURCE_IMAGE-BASED_3D_RECONSTRUCTION_PIPELINES_REVIEW_COMPARISON_AND_EVALUATION
