@@ -813,3 +813,5 @@ https://arxiv.org/pdf/2105.07644.pdf
 https://www.researchgate.net/publication/337644843_OPEN-SOURCE_IMAGE-BASED_3D_RECONSTRUCTION_PIPELINES_REVIEW_COMPARISON_AND_EVALUATION
 
 https://www.bilibili.com/video/av585259272/ https://www.bilibili.com/video/BV1ep4y167Hb
+
+Meshroom in usic video production: https://www.youtube.com/watch?v=GxySNpWZ1pE Faiyaz & the Wasted Chances - Glow (Official Video)
