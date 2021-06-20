@@ -814,4 +814,10 @@ https://www.researchgate.net/publication/337644843_OPEN-SOURCE_IMAGE-BASED_3D_RE
 
 https://www.bilibili.com/video/av585259272/ https://www.bilibili.com/video/BV1ep4y167Hb
 
-Meshroom in usic video production: https://www.youtube.com/watch?v=GxySNpWZ1pE Faiyaz & the Wasted Chances - Glow (Official Video)
+Meshroom in music video production: https://www.youtube.com/watch?v=GxySNpWZ1pE Faiyaz & the Wasted Chances - Glow (Official Video)
+
+Blender Tutorial - How to Photogrammetry in Blender and Meshroom https://www.youtube.com/watch?v=L_SdlR57NtU
+
+mentiones Meshroom: https://link.springer.com/chapter/10.1007/978-3-658-32344-8_32
+
+Simulating pressurized reservoir flushing in scale models using lightweight sediments https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2755819/Sanat%20Kumar%20Karmacharya.pdf?sequence=1  "Likewise,free software Meshroom also has those qualities matchable to commercial software."
