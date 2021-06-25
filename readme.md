@@ -821,3 +821,9 @@ Blender Tutorial - How to Photogrammetry in Blender and Meshroom https://www.you
 mentiones Meshroom: https://link.springer.com/chapter/10.1007/978-3-658-32344-8_32
 
 Simulating pressurized reservoir flushing in scale models using lightweight sediments https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2755819/Sanat%20Kumar%20Karmacharya.pdf?sequence=1  "Likewise,free software Meshroom also has those qualities matchable to commercial software."
+
+Enhancing Spatial Image Datasets For Utilisation in A Simulator for Smart City Transport Navigation
+https://www.thinkmind.org/download_full.php?instance=SMART+2021
+
+Comparative Analysis of Digital Models of Objects of CulturalHeritage Obtained by the “3D SLS” and “SfM” Methods
+https://www.mdpi.com/2076-3417/11/12/5321/pdf
