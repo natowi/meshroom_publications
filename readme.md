@@ -827,3 +827,5 @@ https://www.thinkmind.org/download_full.php?instance=SMART+2021
 
 Comparative Analysis of Digital Models of Objects of CulturalHeritage Obtained by the “3D SLS” and “SfM” Methods
 https://www.mdpi.com/2076-3417/11/12/5321/pdf
+
+Meshroom used in commercial: Artificial rocks for the commercial “Volkswagen Humans” director Martin Kolina, production Big Production (as referenced in ladio deliverables D4.1 Implement OpenCMPMVS p.11) https://vimeo.com/225971792 00:28 (cliff)
