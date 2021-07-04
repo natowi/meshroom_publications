@@ -829,3 +829,5 @@ Comparative Analysis of Digital Models of Objects of CulturalHeritage Obtained b
 https://www.mdpi.com/2076-3417/11/12/5321/pdf
 
 Meshroom used in commercial: Artificial rocks for the commercial “Volkswagen Humans” director Martin Kolina, production Big Production (as referenced in ladio deliverables D4.1 Implement OpenCMPMVS p.11) https://vimeo.com/225971792 00:28 (cliff)
+
+Meshroom used in feature film: Outdoor scene of rocks in France for feature film “Revenge” (director Coralie Fargeat, production Monkey Pack Films) (as referenced in ladio deliverables D4.1 Implement OpenCMPMVS p.14) https://youtu.be/X3qrN0KS57s?t=58 https://youtu.be/X3qrN0KS57s?t=62
