@@ -839,3 +839,5 @@ https://www.sciencedirect.com/science/article/pii/S235214652100421X
 
 Restauración de obras escultóricas mediante el empleo de Software libre 
 https://eprints.ucm.es/id/eprint/66492/1/Memoria_PIMCD-307.pdf
+
+ MoonShineVFX utilizes AliceVision in their 4drec Project for 4D Mesh reconstruction: https://github.com/MoonShineVFX/4drec/issues/47
