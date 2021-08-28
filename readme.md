@@ -843,3 +843,5 @@ https://eprints.ucm.es/id/eprint/66492/1/Memoria_PIMCD-307.pdf
  MoonShineVFX utilizes AliceVision in their 4drec Project for 4D Mesh reconstruction: https://github.com/MoonShineVFX/4drec/issues/47
  
  Short mention: https://www.scitepress.org/Papers/2021/104407/104407.pdf
+ 
+ https://www.researchgate.net/publication/353716572_The_earliest_known_Italian_case_of_bilateral_non-osseous_calcaneonavicular_coalition_from_the_mediaeval_cemetery_of_Troina_Enna_Sicily makes use of Meshroom
