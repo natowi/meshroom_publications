@@ -1,5 +1,5 @@
 List of 200+ academic and non-academic publications, tutorials and references for AliceVision Meshroom.
-Check out the csv file for a structured list.
+Check out the csv file for a structured list. (BibTeX/[JabRef](https://www.jabref.org/) coming soon...
 
 # Text publications (book, paper, academic,...)
 
