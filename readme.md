@@ -851,3 +851,15 @@ https://eprints.ucm.es/id/eprint/66492/1/Memoria_PIMCD-307.pdf
  
  Design of a 3D photogrammetry acquisition system and data processing workflow automation
  https://repositori.udl.cat/handle/10459.1/70339
+ 
+ Multimodal and Multiview Wound Monitoring with Mobile Devices
+ https://www.mdpi.com/2304-6732/8/10/424/pdf
+ 
+ Photogrammetry and Texture Baking: Creating Lightweight 3D Objects for Any VR Headset. In E. Kroski (Ed.) 32 Virtual, Objects for Any VR Headset. In E. Kroski (Ed.) 32 Virtual, Augmented, and Mixed Reality Programs for Libraries Augmented, and Mixed Reality Programs fo
+https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1261&context=lib_fsdocs
+
+Surface and Subsurface Damage Caused by Bullet Impacts into Sandstone
+https://www.mdpi.com/2076-3263/11/9/395/pdf
+
+DESIGN AND FABRICATION OF A COST-EFFICIENT PHOTOGRAMMETRY 3D SCANNER 
+https://coer.ac.in/wp-content/uploads/2021/09/ET-Booklet-with-coer-affiliation-1.pdf
