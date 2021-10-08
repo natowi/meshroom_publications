@@ -863,3 +863,9 @@ https://www.mdpi.com/2076-3263/11/9/395/pdf
 
 DESIGN AND FABRICATION OF A COST-EFFICIENT PHOTOGRAMMETRY 3D SCANNER 
 https://coer.ac.in/wp-content/uploads/2021/09/ET-Booklet-with-coer-affiliation-1.pdf
+
+
+A large number of productions have been using our photogrammetry tools including : 
+“Chocolat” a feature film directed by Roschdy Zem (production  Mandarin Films), ...
+“Duracell” commercial directed by Günther Gheeraert (agency Grey London),
+https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/
