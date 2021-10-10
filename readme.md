@@ -869,3 +869,17 @@ A large number of productions have been using our photogrammetry tools including
 “Chocolat” a feature film directed by Roschdy Zem (production  Mandarin Films), ...
 “Duracell” commercial directed by Günther Gheeraert (agency Grey London),
 https://thevirtualassist.net/3d-reconstruction-camera-tracking-photogrammetry-alicevision/
+
+Meshroom 3D掃描建模
+https://fulfilled-pizzazz-goldfish-837.medium.com/meshroom-3d%E6%8E%83%E6%8F%8F%E5%BB%BA%E6%A8%A1-be7644c7bf82
+
+
+First tracks of newborn straight-tusked elephants (Palaeoloxodon antiquus)
+https://www.nature.com/articles/s41598-021-96754-1?s=09
+
+AliceVision Meshroom: An open-source 3D reconstruction pipeline
+https://www.youtube.com/watch?v=AZA2eT13NZY
+
+Creating 3D Objects using Photogrammetry: About
+https://nhresearch.lonestar.edu/Photogrammetry/About
+
