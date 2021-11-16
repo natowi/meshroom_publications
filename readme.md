@@ -884,3 +884,15 @@ Creating 3D Objects using Photogrammetry: About
 https://nhresearch.lonestar.edu/Photogrammetry/About
 
 Digital Air utilizes Meshroom for 4d workflow: https://digitalair.com/blog-page-3.html
+
+https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Topologically_Consistent_Multi-View_Face_Inference_Using_Volumetric_Sampling_ICCV_2021_paper.pdf
+
+Camera Self-Calibration with GNSS Constrained Bundle Adjustment for Weakly Structured Long Corridor UAV Images https://www.mdpi.com/2072-4292/13/21/4222
+
+https://seprm.com/wp-content/uploads/2021/10/SEPRM-2021.pdf
+
+Shared Realities: Avatar Identification and Privacy Concerns
+in Reconstructed Experiences https://dl.acm.org/doi/pdf/10.1145/3476078
+
+Selection of Key Frames for 3D Reconstruction in Real Time  https://www.mdpi.com/1999-4893/14/11/303
+
