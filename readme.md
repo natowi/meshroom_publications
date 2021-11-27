@@ -896,3 +896,36 @@ in Reconstructed Experiences https://dl.acm.org/doi/pdf/10.1145/3476078
 
 Selection of Key Frames for 3D Reconstruction in Real Time  https://www.mdpi.com/1999-4893/14/11/303
 
+Comparative Analysis of Open-Source and Commercial
+Photogrammetry Software for Cultural Heritage http://papers.cumincad.org/data/works/att/ecaade2021_117.pdf
+
+The Course Teaser - Photoreal 3D with Blender, Reality Capture and Meshroom https://www.youtube.com/watch?v=yfk813tWNww
+
+Photogrammetry in Blender and Meshroom - Blender Tutorial https://www.youtube.com/watch?v=L_SdlR57NtU
+
+https://images.nvidia.com/aem-dam/Solutions/Data-Center/tesla-product-literature/gpu-applications-catalog.pdf
+
+https://www.maxhudesign.com/photogrammetric
+
+https://hanqiu-jiang.science/blog_entries/01_photogrammetry.html
+
+Comparison of open-source image-based reconstruction pipelines for 3D maize root phenotyping
+https://www.essoar.org/doi/abs/10.1002/essoar.10508318.1
+
+https://www.researchgate.net/publication/354679926_Surface_and_Subsurface_Damage_Caused_by_Bullet_Impacts_into_Sandstone
+
+Fun Fact: Meshroom Mentioned in Fanfiction ;) https://m.fanfiction.net/s/13992161/7/Pumpkin-Chunkin?__cf_chl_jschl_tk__=0xiR8kU4OW1FiYEjEBSYRDFq3L8xMmyb0SLvcP9ydKE-1638020303-0-gaNycGzNCGU
+
+Hong Kong activists create digital rendering of the ‘Pillar of Shame’ to save it from authorities Issued on: 03/11/2021 - 18:36
+"The participants in the project used a program called Meshroom to create a large version of the statue"
+https://observers.france24.com/en/asia-pacific/20211105-hong-kong-3d-rendering-pillar-of-shame-tiananmen
+
+Вставка реальных объектов в Unity с помощью Meshroom https://habr.com/ru/post/515196/
+
+https://fr.wikipedia.org/wiki/AliceVision_Meshroom
+
+https://fr.wikipedia.org/wiki/Comparaison_de_logiciels_de_photogramm%C3%A9trie
+
+
+Ichnotaxonomy and trackmaker assignment of tetrapod tracks and swimming traces from the Middle Permian Hornburg Formation of Saxony-Anhalt (Germany) https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-89c36a2c-beed-4529-af3f-12e2aef83ce7
+
