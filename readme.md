@@ -912,6 +912,8 @@ https://hanqiu-jiang.science/blog_entries/01_photogrammetry.html
 Comparison of open-source image-based reconstruction pipelines for 3D maize root phenotyping
 https://www.essoar.org/doi/abs/10.1002/essoar.10508318.1
 
+https://www.blenderdiplom.com/en/interviews/717-interview-alicevision-s-photogrammetry-solution-meshroom.html
+
 https://www.researchgate.net/publication/354679926_Surface_and_Subsurface_Damage_Caused_by_Bullet_Impacts_into_Sandstone
 
 Fun Fact: Meshroom Mentioned in Fanfiction ;) https://m.fanfiction.net/s/13992161/7/Pumpkin-Chunkin?__cf_chl_jschl_tk__=0xiR8kU4OW1FiYEjEBSYRDFq3L8xMmyb0SLvcP9ydKE-1638020303-0-gaNycGzNCGU
@@ -929,3 +931,9 @@ https://fr.wikipedia.org/wiki/Comparaison_de_logiciels_de_photogramm%C3%A9trie
 
 Ichnotaxonomy and trackmaker assignment of tetrapod tracks and swimming traces from the Middle Permian Hornburg Formation of Saxony-Anhalt (Germany) https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-89c36a2c-beed-4529-af3f-12e2aef83ce7
 
+Open Source Experience 2021 - AliceVision : pipeline de reconstruction 3D open source
+https://www.youtube.com/watch?v=RhurP-vmrIo
+
+We see more and more jobs that list Meshroom as benefit, desired or even requirement for positions like:
+Computer Vision & Machine Learning Engineer IKNOWHOW SA Athens, Attiki, Greece 
+https://gr.linkedin.com/jobs/view/computer-vision-machine-learning-engineer-at-iknowhow-sa-2794033070 
