@@ -939,3 +939,12 @@ Computer Vision & Machine Learning Engineer IKNOWHOW SA Athens, Attiki, Greece
 https://gr.linkedin.com/jobs/view/computer-vision-machine-learning-engineer-at-iknowhow-sa-2794033070 
 
 https://our.charlotte.edu/sites/our.charlotte.edu/files/media/FINAL%202021%20Summer%20Research%20Symposium%20Abstract%20Book%20PDF%20%282%29.pdf
+
+https://www.blendernation.com/2021/11/28/3d-fractal-music-video/
+
+https://libguides.bodleian.ox.ac.uk/3dprintingscanning/scanathome
+
+https://danigayo.info/teaching/foncalada/
+
+https://www.vistable.com/blog/photogrammetry-or-photo-modeling-for-the-digital-factory-model/
+https://www.youtube.com/watch?v=RiM3qfwDZ-g
