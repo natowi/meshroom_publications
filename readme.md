@@ -611,6 +611,7 @@ https://arxiv.org/pdf/2012.11779.pdf
 https://www.blendernation.com/2021/01/13/behind-the-scenes-a-red-cabin/
 
 https://www.youtube.com/watch?v=93yZZjGqk_s Music video For Those I Love - Birthday / The Pain
+3D Artist https://www.brentpatterson.com/ @ SUNY Buffalo State College
 
 https://habr.com/ru/post/491742/
 
