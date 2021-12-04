@@ -937,3 +937,5 @@ https://www.youtube.com/watch?v=RhurP-vmrIo
 We see more and more jobs that list Meshroom as benefit, desired or even requirement for positions like:
 Computer Vision & Machine Learning Engineer IKNOWHOW SA Athens, Attiki, Greece 
 https://gr.linkedin.com/jobs/view/computer-vision-machine-learning-engineer-at-iknowhow-sa-2794033070 
+
+https://our.charlotte.edu/sites/our.charlotte.edu/files/media/FINAL%202021%20Summer%20Research%20Symposium%20Abstract%20Book%20PDF%20%282%29.pdf
