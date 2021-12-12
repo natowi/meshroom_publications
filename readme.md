@@ -949,3 +949,17 @@ https://danigayo.info/teaching/foncalada/
 
 https://www.vistable.com/blog/photogrammetry-or-photo-modeling-for-the-digital-factory-model/
 https://www.youtube.com/watch?v=RiM3qfwDZ-g
+
+
+Multi-Drone 3D Building Reconstruction Method
+https://www.mdpi.com/2227-7390/9/23/3033/pdf
+
+https://www.youtube.com/watch?v=Vp_H9WyV0I8
+
+https://www.youtube.com/watch?v=-dc4KN2bdrw
+
+A study on recognizing multi-real world object and estimating 3D position in augmented reality
+https://link.springer.com/article/10.1007/s11227-021-04161-0
+
+Visualization of Human Motion via Virtual Reality Interface and Interaction based on It 
+https://www.scitepress.org/Papers/2021/106888/106888.pdf
