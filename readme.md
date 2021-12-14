@@ -963,3 +963,6 @@ https://link.springer.com/article/10.1007/s11227-021-04161-0
 
 Visualization of Human Motion via Virtual Reality Interface and Interaction based on It 
 https://www.scitepress.org/Papers/2021/106888/106888.pdf
+
+short mention
+https://www.zamek-becov.cz/pamatky/becov-nad-teplou/ABC.pdf
