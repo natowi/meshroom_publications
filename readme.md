@@ -966,3 +966,12 @@ https://www.scitepress.org/Papers/2021/106888/106888.pdf
 
 short mention
 https://www.zamek-becov.cz/pamatky/becov-nad-teplou/ABC.pdf
+
+Development of a 3D Method Using SEM and Liquid-Phase STEM to Study Cell doi:10.1017/S1431927621013040  
+Morphology https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A591C6B60D9B1294DFBBB25DD82AF8F9/S1431927621013040a.pdf
+
+SERV-CT: A disparity dataset from cone-beam CT for validation of endoscopic 3D reconstruction
+https://www.sciencedirect.com/science/article/pii/S1361841521003479
+
+A method of shaping an energy-efficient building envelope based on natural patterns in order to achieve save of energy
+https://iopscience.iop.org/article/10.1088/1757-899X/1209/1/012071/pdf
