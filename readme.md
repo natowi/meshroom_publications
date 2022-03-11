@@ -975,3 +975,6 @@ https://www.sciencedirect.com/science/article/pii/S1361841521003479
 
 A method of shaping an energy-efficient building envelope based on natural patterns in order to achieve save of energy
 https://iopscience.iop.org/article/10.1088/1757-899X/1209/1/012071/pdf
+
+A Virtual Necropsy: Applications of 3D Scanning for Marine Mammal Pathology and Education
+https://mdpi-res.com/d_attachment/animals/animals-12-00527/article_deploy/animals-12-00527.pdf
