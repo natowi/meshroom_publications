@@ -982,3 +982,15 @@ https://mdpi-res.com/d_attachment/animals/animals-12-00527/article_deploy/animal
 ADVANCEMENTS IN THE CRAFT OF GROWING STRUCTURES WITH MYCELIUM-COMPOSITE MATERIALS
 https://zenodo.org/record/6570413/files/NOCMAT_2022_paper_64.pdf scanning process of hanging sheets and screenshots from Meshroom;
 Digital model of the myco-chandelier
+
+Innovation Process for Optical Face Scanner Used to Customize 3D Printed Spectacles
+https://mdpi-res.com/d_attachment/materials/materials-15-03496/article_deploy/materials-15-03496.pdf?version=1652416026
+
+FIRE SPALLING SENSITIVITY OF CONCRETE MADE WITH RECYCLED CONCRETE AGGREGATES (RCA)
+https://ojs.cvut.cz/ojs/index.php/APP/article/download/7992/6232/28177
+
+DEEP MULTI-VIEW STEREO FOR GTSFM Thesis
+https://smartech.gatech.edu/bitstream/handle/1853/66613/LIU-THESIS-2022.pdf?sequence=1
+
+Presentation: MSU Department of Electrical & Computer Engineering Aerial Drone for NDE Applications
+http://designday.msu.edu/wp-content/uploads/2022/04/MSU-Design-Day-Spring-2022-web.pdf
