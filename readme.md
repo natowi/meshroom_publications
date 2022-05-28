@@ -994,3 +994,6 @@ https://smartech.gatech.edu/bitstream/handle/1853/66613/LIU-THESIS-2022.pdf?sequ
 
 Presentation: MSU Department of Electrical & Computer Engineering Aerial Drone for NDE Applications
 http://designday.msu.edu/wp-content/uploads/2022/04/MSU-Design-Day-Spring-2022-web.pdf
+
+Stereo-DTM and Digital Outcrop Model pipelines/guideline
+https://www.europlanet-society.org/wp-content/uploads/2021/09/D9.4.pdf
