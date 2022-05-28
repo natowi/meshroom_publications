@@ -978,3 +978,7 @@ https://iopscience.iop.org/article/10.1088/1757-899X/1209/1/012071/pdf
 
 A Virtual Necropsy: Applications of 3D Scanning for Marine Mammal Pathology and Education
 https://mdpi-res.com/d_attachment/animals/animals-12-00527/article_deploy/animals-12-00527.pdf
+
+ADVANCEMENTS IN THE CRAFT OF GROWING STRUCTURES WITH MYCELIUM-COMPOSITE MATERIALS
+https://zenodo.org/record/6570413/files/NOCMAT_2022_paper_64.pdf scanning process of hanging sheets and screenshots from Meshroom;
+Digital model of the myco-chandelier
