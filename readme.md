@@ -997,3 +997,15 @@ http://designday.msu.edu/wp-content/uploads/2022/04/MSU-Design-Day-Spring-2022-w
 
 Stereo-DTM and Digital Outcrop Model pipelines/guideline
 https://www.europlanet-society.org/wp-content/uploads/2021/09/D9.4.pdf
+
+Creating 3D models of transportation vehicles using photogrammetry
+https://www.sciencedirect.com/science/article/pii/S235214652100421X/pdf?md5=9ec10bde60ddecb2a93baaa097567658&pid=1-s2.0-S235214652100421X-main.pdf
+
+AN AUTOMATIC WORKFLOW FOR ORIENTATION OFHISTORICAL IMAGES WITH LARGE RADIOMETRICAND GEOMETRIC DIFFERENCES
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/phor.12363
+
+SERV-CT: A disparity dataset from cone-beam CT for validation of endoscopic 3D reconstruction
+https://discovery.ucl.ac.uk/id/eprint/10141456/1/1-s2.0-S1361841521003479-main.pdf
+
+Archviz Photogrammetry Workflow | Can It Reasonably Replace Poly Modeling?
+https://www.youtube.com/watch?v=YKPIO6ML1Xo
