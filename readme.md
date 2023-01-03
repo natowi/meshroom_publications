@@ -1009,3 +1009,17 @@ https://discovery.ucl.ac.uk/id/eprint/10141456/1/1-s2.0-S1361841521003479-main.p
 
 Archviz Photogrammetry Workflow | Can It Reasonably Replace Poly Modeling?
 https://www.youtube.com/watch?v=YKPIO6ML1Xo
+
+# 2023
+
+Evaluation of Photogrammetry Tools following Progress Detection of Rebar towards Sustainable Construction Processes Paper 2023
+https://mdpi-res.com/d_attachment/sustainability/sustainability-15-00021/article_deploy/sustainability-15-00021.pdf?version=1671530331
+
+Comparison of Open-Source Three-Dimensional Reconstruction Pipelines for Maize-Root Phenotyping Paper 2022
+https://d197for5662m48.cloudfront.net/documents/publicationstatus/121127/preprint_pdf/9f0df2f86725501ce8c2bfcda133b764.pdf
+
+Neural Assets: Volumetric Object Capture and Rendering for Interactive Environments paper short mentioning 2022
+https://arxiv.org/pdf/2212.06125.pdf
+
+
+https://arxiv.org/pdf/2212.06125.pdf
